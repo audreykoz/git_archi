@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[lsst syseng] Consistency with DM OCS ICD (Requirement)"
+    id="535db821-22e5-11e8-ba68-6c400893992c"
+    documentation="Interface Control Document between DM and the Observatory Control System"/>

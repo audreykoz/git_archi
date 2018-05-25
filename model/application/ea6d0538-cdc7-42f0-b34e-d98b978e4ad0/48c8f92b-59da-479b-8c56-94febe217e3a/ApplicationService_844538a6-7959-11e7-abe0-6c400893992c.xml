@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Telemetry Gatewaying Service (Application Service)"
+    id="844538a6-7959-11e7-abe0-6c400893992c">
+  <properties
+      key="ReusableServices"/>
+</archimate:ApplicationService>

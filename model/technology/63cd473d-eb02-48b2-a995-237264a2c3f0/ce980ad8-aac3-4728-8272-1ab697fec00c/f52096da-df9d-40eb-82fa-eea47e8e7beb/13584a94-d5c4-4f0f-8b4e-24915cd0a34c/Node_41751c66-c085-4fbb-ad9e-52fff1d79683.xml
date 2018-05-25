@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 NCSA] Real Time L1 Relataional  Database ITC (Node)"
+    id="41751c66-c085-4fbb-ad9e-52fff1d79683"
+    documentation="The Real Time L1 database ITC provides a relational database instance for internal use of the L1 system.  &#xA;&#xA;The rationale for a Real Time L1 database  having separate implementation is to accomodate the L1 avaiabity requirements, (and in particular to decouple maintenance of the L1 system from the Gerneral system) and for performance Isolaltion.  "/>

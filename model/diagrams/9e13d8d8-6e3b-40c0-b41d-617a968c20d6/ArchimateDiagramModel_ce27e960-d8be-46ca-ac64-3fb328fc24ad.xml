@@ -1,0 +1,30 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prompt Processing "
+    id="ce27e960-d8be-46ca-ac64-3fb328fc24ad">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="cd8290ff-8cfa-4cb7-9e62-9fdd1d9b0ea2">
+    <bounds
+        x="336"
+        y="36"
+        width="120"
+        height="84"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_33c8eedc-9761-4d74-b6e0-96426abe1dd7.xml#33c8eedc-9761-4d74-b6e0-96426abe1dd7"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="6868a5ed-962e-4ab0-917a-1d03362cefb4">
+    <bounds
+        x="84"
+        y="300"
+        width="120"
+        height="109"/>
+    <archimateElement
+        xsi:type="archimate:Node"
+        href="Node_41751c66-c085-4fbb-ad9e-52fff1d79683.xml#41751c66-c085-4fbb-ad9e-52fff1d79683"/>
+  </children>
+</archimate:ArchimateDiagramModel>

@@ -1,0 +1,18 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="US DAC] Stub (WBS View)"
+    id="fb3a5a93-07cc-4551-a645-2ea53fb17846">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="23ae9df5-ecad-4f28-84ad-61b8028b50c4">
+    <bounds
+        x="108"
+        y="504"
+        width="120"
+        height="115"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_e6382590-15f2-40b0-893a-e7e65163138d.xml#e6382590-15f2-40b0-893a-e7e65163138d"/>
+  </children>
+</archimate:ArchimateDiagramModel>

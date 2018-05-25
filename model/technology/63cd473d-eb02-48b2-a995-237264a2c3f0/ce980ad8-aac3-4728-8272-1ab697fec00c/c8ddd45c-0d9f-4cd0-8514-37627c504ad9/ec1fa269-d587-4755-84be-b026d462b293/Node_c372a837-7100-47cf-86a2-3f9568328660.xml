@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base] Comcam Observatory Operations Services Node  -- Comcam Era Scale (Node) "
+    id="c372a837-7100-47cf-86a2-3f9568328660"
+    documentation="The Comcam observatory Operations Service node has sufficent disk to buffer data acquired by the spectrograph.  The Buffer ingests data at the maximum data rate supported by the spectrograph archiver, while sustaining accesses needed for observing operations and ingest into the data backbone propoper.&#xA;&#xA;Data Achiving cannot proceed if the Observing Operations node is down, nor can the operations suported by buffer continue if the Observing Operations node is down. &#xA;&#xA;The buffer is capacious enough to allow for comcam archiving to continue over the longest perod of planned outage of the data Backbone Raw data ingest point.The Buffer is also large enough to hold recently acquired data for use by observing operations. &#xA;&#xA;">
+  <properties
+      key="LDM-129"/>
+</archimate:Node>

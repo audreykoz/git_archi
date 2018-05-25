@@ -1,0 +1,5 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PDAC] Create Run TIme Environment for a User (Application Service)"
+    id="2c754f2d-5982-44a4-a85e-a19e9975dda2"
+    documentation="Create run TIme Envoroment for a User is a funtion of Jupiter Lab.  The Function creates a Kuberneted pod, and runs a designeted Jupyter Container within it. the Container has Access to Bqtch Facilites, SSH login to the head node assocaited wiht the Batach facilities"/>

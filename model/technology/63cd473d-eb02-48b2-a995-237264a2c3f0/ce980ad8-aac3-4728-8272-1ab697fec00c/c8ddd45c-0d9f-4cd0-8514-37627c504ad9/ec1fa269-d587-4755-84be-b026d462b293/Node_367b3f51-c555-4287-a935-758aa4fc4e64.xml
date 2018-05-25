@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base]  Comcam DMCS  and  Misc  Provisioning (node)"
+    id="367b3f51-c555-4287-a935-758aa4fc4e64"
+    documentation="This logical Node  provides provisioning Provisioning for the Base DMCS and associated processes that constitute  the &quot;Head Node&quot; applicaitions,  The system will fail if  this provisioning infrastructure fails as all applications are critical to operations.  Hardware designers might consider redundant provisioning for this logical system element.  "/>

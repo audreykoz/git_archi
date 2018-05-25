@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ldf] Consistent with Capacity Managment Display (Requirement)"
+    id="42acb6d7-22e8-11e8-9707-6c400893992c"
+    documentation="The display cpatures capacity management at a glance. The goal of the display is to capture demand on the service and also the service level delivered, with a focus on long term trends. The display provides a coherent viewpoint for the availability of all LDF services"/>

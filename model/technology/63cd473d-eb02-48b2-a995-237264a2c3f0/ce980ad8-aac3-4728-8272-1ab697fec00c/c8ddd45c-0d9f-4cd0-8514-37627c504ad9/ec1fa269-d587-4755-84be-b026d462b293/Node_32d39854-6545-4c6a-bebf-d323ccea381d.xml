@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base] Comcam Forwarder Nodes (Node)"
+    id="32d39854-6545-4c6a-bebf-d323ccea381d"
+    documentation="Forwarder nodes acquire the pixel data. The software design provides for forwarders to &quot;die&quot; -- as they are seleected from a pool (in thsi case for every image).  A Robust Comcam deployment might have two forwarders to provide  continuous service should a forwarder node fail.  For the comcam, forwarding nodes only perform the Archiving function."/>

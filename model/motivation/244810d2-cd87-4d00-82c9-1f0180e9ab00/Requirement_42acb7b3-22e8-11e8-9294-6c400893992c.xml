@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ldf] Consistent with Service Status Page (Requirement)"
+    id="42acb7b3-22e8-11e8-9294-6c400893992c"
+    documentation="THe service Status page show planng dowtime, actual Known status of the running services "/>

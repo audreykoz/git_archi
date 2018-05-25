@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ L1 NCSA]  DMCS and Head Node, Local Scheduling   and Misc ITC (Node)"
+    id="081728d8-6114-4923-aba9-d92ebbde52f5"
+    documentation="This logical Node  provides Provisioning for the NCSA DMCS and associated processes that constitute  the &quot;Head Node&quot; applicaitions and other services central to the NCSA side of the Prompt Processing System.    &#xA;&#xA;The Prompt Proccesing services will fail if  this provisioning infrastructure fails as all applications are critical Prompt Processing .  Hardware designers might consider redundant provisioning for this logical system element.  &#xA;&#xA;"/>

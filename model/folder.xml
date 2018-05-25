@@ -1,0 +1,41 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSST"
+    id="80fb683b-9e14-426e-b074-e3169fffb08f"
+    purpose="This is a model that aspires to capture the NCSA LSST  construction project, which leads to the the Operations phase LSST Data Facility. &#xA;&#xA;The model supports NCSA internal Construction project Work Breakdown Strucutre, which captures NCSA's forseen activities. These activies are covered by many funding sources: DM construction, LSST Commissioning , and other LSST related funding sources. "
+    version="4.0.0">
+  <properties
+      key="Report:Model:Hide:Business"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Application"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Technology&amp;Physical"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Motiiviation"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Implementation&amp;Migration"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Other"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Relations"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:Views"
+      value="false"/>
+  <properties
+      key="Report:Model:Hide:ViewNumbering"
+      value="true"/>
+  <properties
+      key="language"
+      value="en"/>
+  <properties
+      key="FormComment"
+      value="This form illustrates the Form plugin for Archi.&#xA;&#xA;It creates controls showing up some Archi components' properties. It replaces the description field by the value of property &quot;description_xxx&quot; if it exists, where &quot;xxx&quot; is the value of the model's property &quot;language&quot;.&#xA;&#xA;For instance, if the model has got a &quot;language&quot; property with value &quot;fr&quot;, then the &quot;documentation&quot; field will be replaced by the value of the property &quot;documentation_fr&quot; if any."/>
+  <metadata/>
+</archimate:ArchimateModel>

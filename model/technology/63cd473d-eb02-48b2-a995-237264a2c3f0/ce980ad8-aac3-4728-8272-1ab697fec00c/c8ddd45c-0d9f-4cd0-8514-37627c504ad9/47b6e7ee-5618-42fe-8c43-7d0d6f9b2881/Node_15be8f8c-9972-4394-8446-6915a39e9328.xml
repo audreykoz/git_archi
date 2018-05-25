@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base]  LSSTCam DMCS  and  Misc  Provisioning (node) (copy)"
+    id="15be8f8c-9972-4394-8446-6915a39e9328"
+    documentation="This logical Node  provides provisioning Provisioning for the Base DMCS and associated processes that constitute  the &quot;Head Node&quot; applicaitions,  The system will fail if  this provisioning infrastructure fails as all applications are critical to operations.  Hardware designers might consider redundant provisioning for this logical system element.  "/>

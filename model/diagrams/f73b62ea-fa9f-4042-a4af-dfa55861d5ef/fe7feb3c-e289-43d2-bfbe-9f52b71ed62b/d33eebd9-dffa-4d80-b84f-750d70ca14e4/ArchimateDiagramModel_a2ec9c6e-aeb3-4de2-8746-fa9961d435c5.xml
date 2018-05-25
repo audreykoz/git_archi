@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="EFD Level One Complete Test Stand"
+    id="a2ec9c6e-aeb3-4de2-8746-fa9961d435c5">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="f9a2bf4f-bf88-472c-b870-1fc73245ce8c">
+    <bounds
+        x="336"
+        y="36"
+        width="145"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_70c2cb73-4987-481b-a7de-6b51faab778a.xml#70c2cb73-4987-481b-a7de-6b51faab778a"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="9022e5cf-d974-4e64-9bd8-2d53c11ef362">
+    <bounds
+        x="349"
+        y="264"
+        width="120"
+        height="79"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_e7e6f3b3-7338-4182-ae06-39c0b67afb21.xml#e7e6f3b3-7338-4182-ae06-39c0b67afb21"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="a983fa47-68b8-4e7f-9694-3703ed09c889">
+    <bounds
+        x="349"
+        y="396"
+        width="120"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_abea938e-5dea-404f-bd17-70e8228fe812.xml#abea938e-5dea-404f-bd17-70e8228fe812"/>
+  </children>
+</archimate:ArchimateDiagramModel>

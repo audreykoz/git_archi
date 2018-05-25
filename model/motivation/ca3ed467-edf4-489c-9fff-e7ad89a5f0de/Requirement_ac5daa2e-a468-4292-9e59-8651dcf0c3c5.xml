@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[LDF-Managed-Data] Capacity Forecast Exists (Requirement)"
+    id="ac5daa2e-a468-4292-9e59-8651dcf0c3c5"
+    documentation="There is a forecast for the amounts of a kind of  data anticiapted in the future, allowing for capacity planning."/>

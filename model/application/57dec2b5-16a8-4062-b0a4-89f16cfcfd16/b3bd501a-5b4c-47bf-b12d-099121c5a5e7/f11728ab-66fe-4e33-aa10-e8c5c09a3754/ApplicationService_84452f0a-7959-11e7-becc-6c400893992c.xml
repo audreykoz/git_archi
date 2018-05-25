@@ -1,0 +1,8 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Hosting of Feeds to Community Brokers (Application Service)"
+    id="84452f0a-7959-11e7-becc-6c400893992c"
+    documentation="&#xA;&#xA;">
+  <properties
+      value="https://wwe.google.com"/>
+</archimate:ApplicationService>

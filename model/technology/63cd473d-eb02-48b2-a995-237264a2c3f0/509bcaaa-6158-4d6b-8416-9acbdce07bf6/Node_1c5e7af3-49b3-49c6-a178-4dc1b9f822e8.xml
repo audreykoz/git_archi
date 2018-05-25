@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base] Commissioning Computing Infrastructue (Node)"
+    id="1c5e7af3-49b3-49c6-a178-4dc1b9f822e8"
+    documentation="The Base commissiongi infrastrucute  contains the  implementation behind the orginal notion of the &quot;commissioning cluster&quot;   This node is an aggrication point  for the ITC  upporting the more adanced condtp now designed.">
+  <properties
+      key="LDM-129"/>
+</archimate:Node>

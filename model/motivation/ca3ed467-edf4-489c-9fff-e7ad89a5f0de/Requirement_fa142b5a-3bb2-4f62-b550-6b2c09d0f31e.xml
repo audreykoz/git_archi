@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[LDF-Managed-Data] Administration Consistent with DR and Continuity Plan (Requirement)"
+    id="fa142b5a-3bb2-4f62-b550-6b2c09d0f31e"
+    documentation="The management plan for this data is consistent with the Disaster Recovery and Continuity Plan for Data."/>

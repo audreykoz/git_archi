@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base] LSSTCAM Forwarders (Node)"
+    id="33c8eedc-9761-4d74-b6e0-96426abe1dd7"
+    documentation="Forwarder nodes acquire the pixel data. The software design provides for forwarders to &quot;die&quot; -- as they are seleected from a pool (in thsi case for every image).  A Robust LSSTCam deployment will have extra forwarders to provide  continuous service should a forwarder node fail.  For LSSTCam , forwarding nodes perform both the Archiving function, and forwarding data over teh science data link to NCSA."/>

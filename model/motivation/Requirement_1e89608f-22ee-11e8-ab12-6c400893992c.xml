@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[LSST Security] Consistent with Security Controls Spreadsheet (Requirement)"
+    id="1e89608f-22ee-11e8-ab12-6c400893992c"
+    documentation="The Security Controls Spreadshhet shows considerations applied to instances of services"/>

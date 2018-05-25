@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Master Batch Job Scheduling Service at Base (Application Service)"
+    id="84453a4a-7959-11e7-9863-6c400893992c">
+  <properties
+      key="ReusableServices"/>
+</archimate:ApplicationService>

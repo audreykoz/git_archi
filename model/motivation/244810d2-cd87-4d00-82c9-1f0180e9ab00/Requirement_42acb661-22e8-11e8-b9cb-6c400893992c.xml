@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[ldf] Adequate Comfort Display (Requirement)"
+    id="42acb661-22e8-11e8-b9cb-6c400893992c"
+    documentation="Comfort displays show current salient aspects of a service at a high level. A comfort display provides  at-a-glace understanding of the level of functioning of a service, and information potentialy useful for trouble ticketing. The comfort display may be monitored by TMG to detect downtime"/>

@@ -1,0 +1,5 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[lsst syseng] Consistency with DM - CDS ICD (Requirement)"
+    id="6f557beb-4012-4b82-8bfd-cdb2373d9e5e"
+    documentation="The Interface Control Document governg the Camera Data System implmentations for the Spectrograph, Maincam and Comcam and  DM-provided services. "/>

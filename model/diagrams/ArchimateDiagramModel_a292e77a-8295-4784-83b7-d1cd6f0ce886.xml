@@ -1,0 +1,45 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Generated View for [LSST SysEng]Consistent with Authentication and Authroization Policies (Requirement)"
+    id="a292e77a-8295-4784-83b7-d1cd6f0ce886">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="1b505d7f-c0a0-40a1-a68f-897fa6206999">
+    <bounds
+        x="20"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_470071c2-28eb-4d0a-a263-8094d28971cd.xml#470071c2-28eb-4d0a-a263-8094d28971cd"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="b85221c9-6c9e-4b78-98b0-858d1302234f">
+    <bounds
+        x="170"
+        y="20"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_42acb5e6-22e8-11e8-9744-6c400893992c.xml#42acb5e6-22e8-11e8-9744-6c400893992c"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="65faa5a9-4753-489c-af27-185520cf81ee">
+    <bounds
+        x="170"
+        y="100"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Requirement"
+        href="Requirement_a088d866-3848-401e-88e5-3091ebd1e1a2.xml#a088d866-3848-401e-88e5-3091ebd1e1a2"/>
+  </children>
+  <properties
+      key="Capacity "
+      value="23"/>
+</archimate:ArchimateDiagramModel>
