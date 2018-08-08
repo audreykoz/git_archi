@@ -1,8 +1,0 @@
-<archimate:Plateau
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OO 7: MainCam Phase 2 (Plateau)"
-    id="d92175c5-b79c-4ced-ae90-e65c7e0acb0d"
-    documentation="The main Cam Phase 2  Plateau Builds on the Main Cam Phae 1 Bundel by adding the resources needed to perform real-tiem production of Alerts.  By this time, the alert distibution system which routes rea tiem events to the brokers ahs been constructre and has been exercised in offline mode.">
-  <properties
-      key="Pla:OO:MainCamPhase2"/>
-</archimate:Plateau>

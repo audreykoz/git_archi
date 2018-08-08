@@ -1,8 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[NCSA Kub] NCSA Kubernetes Head (Logical Node)"
-    id="0fbbe192-7438-403b-86d0-83e79ab0a220"
-    documentation="This is head node infrastrucure for kubernetes. ">
-  <properties
-      key="Unit:Useable TB"/>
-</archimate:Node>

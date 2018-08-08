@@ -1,7 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LSST Science Platform for Science Validation (Application Service) "
-    id="84452ba3-7959-11e7-adff-6c400893992c">
-  <properties
-      key="UseCaseSatisfactionServices"/>
-</archimate:ApplicationService>

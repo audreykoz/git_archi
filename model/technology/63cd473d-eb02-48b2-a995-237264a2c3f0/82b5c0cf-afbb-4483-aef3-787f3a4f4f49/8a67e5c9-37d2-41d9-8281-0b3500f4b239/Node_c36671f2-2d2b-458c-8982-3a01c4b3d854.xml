@@ -1,8 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base DAC] DAC User Home File System (Logical Node)"
-    id="c36671f2-2d2b-458c-8982-3a01c4b3d854"
-    documentation="Hold per-user content for DAC users. an dany DAC specifi applicaiton support files. ">
-  <properties
-      key="Unit:Useable TB"/>
-</archimate:Node>

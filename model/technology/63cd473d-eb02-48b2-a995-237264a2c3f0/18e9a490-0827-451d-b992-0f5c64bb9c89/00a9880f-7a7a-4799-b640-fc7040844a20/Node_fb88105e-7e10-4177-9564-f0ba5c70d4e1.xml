@@ -5,3 +5,7 @@
   <properties
       key="LDM-129"/>
 </archimate:Node>
+e bastion hosts providing administrator access to summit NCSA equipment. Typically a bastion host is a stand alone hardware capability, since it needs to be available to access any other components.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

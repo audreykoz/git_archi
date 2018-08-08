@@ -1,7 +1,0 @@
-<archimate:ApplicationService
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Comcam Processing] L1-Specific Calibrations Offline Campaign Processing (Application Service)"
-    id="844526e8-7959-11e7-b009-6c400893992c">
-  <properties
-      key="UseCaseSatisfactionServices"/>
-</archimate:ApplicationService>

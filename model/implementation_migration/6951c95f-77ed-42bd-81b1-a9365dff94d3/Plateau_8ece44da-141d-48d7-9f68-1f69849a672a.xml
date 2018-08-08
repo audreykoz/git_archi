@@ -1,8 +1,0 @@
-<archimate:Plateau
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="OO 3: Summit Security Bundle (Plateau)"
-    id="8ece44da-141d-48d7-9f68-1f69849a672a"
-    documentation="The summit security bundle provides information security  infrastructure for the summit. The functions are a sub-set of a the more general delployments at NCSA and the base. The deployement is sufficent to maintain operatiiopns shoould th summit be disconencted from the base. Example functin that need to be maintainted are authenication and authorization and logfile collection.">
-  <properties
-      key="Pla:OO:SummitSec"/>
-</archimate:Plateau>

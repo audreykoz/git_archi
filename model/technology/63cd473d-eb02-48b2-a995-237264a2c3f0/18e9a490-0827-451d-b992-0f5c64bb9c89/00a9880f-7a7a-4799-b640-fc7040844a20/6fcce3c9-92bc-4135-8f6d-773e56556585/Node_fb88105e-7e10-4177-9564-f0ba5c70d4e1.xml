@@ -1,8 +1,0 @@
-<archimate:Node
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Summit ITC] Summit Bastion Host Capability (Logical Node)"
-    id="fb88105e-7e10-4177-9564-f0ba5c70d4e1"
-    documentation="A stand alone bastion hosts providing administrator access to summit NCSA equipment. Typically a bastion host is a stand alone hardware capability, since it needs to be available to access any other components.">
-  <properties
-      key="Unit:Logical Cores"/>
-</archimate:Node>
