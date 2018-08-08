@@ -1,4 +1,11 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Room 3003 VMware"
-    id="b2ce040c-91ca-46fd-bb20-be9cb64ddf9c"/>
+    id="b2ce040c-91ca-46fd-bb20-be9cb64ddf9c">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:RM3003"/>
+  <properties
+      key="Enc:NCSA_COMMONS"/>
+</archimate:Folder>

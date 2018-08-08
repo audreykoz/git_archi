@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone] Base Data Backbone Test and Integration File System (Logical Node) "
+    id="8f0308bc-204f-44bd-90ac-8f7abb0759b6"
+    documentation="A file system for test and development on the Data Backbone.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

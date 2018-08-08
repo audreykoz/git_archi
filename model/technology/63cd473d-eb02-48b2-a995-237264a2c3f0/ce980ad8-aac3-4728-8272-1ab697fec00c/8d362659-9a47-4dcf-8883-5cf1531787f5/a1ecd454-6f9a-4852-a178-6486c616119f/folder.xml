@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.7.3.2 Comcam Test Stand ITC"
-    id="a1ecd454-6f9a-4852-a178-6486c616119f"/>
+    id="a1ecd454-6f9a-4852-a178-6486c616119f">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:TUCSON"/>
+  <properties
+      key="Enc:TTS"/>
+  <properties/>
+</archimate:Folder>

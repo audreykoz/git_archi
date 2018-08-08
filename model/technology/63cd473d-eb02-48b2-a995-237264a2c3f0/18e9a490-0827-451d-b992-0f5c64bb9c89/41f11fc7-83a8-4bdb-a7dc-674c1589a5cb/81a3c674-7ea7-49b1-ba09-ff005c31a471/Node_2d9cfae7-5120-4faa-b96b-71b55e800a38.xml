@@ -1,7 +1,10 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.2.2.8.1 NCSA NPCF LSST Core Networkin gfrom border infrastructure to and inclugin TOR Switched"
-    id="2d9cfae7-5120-4faa-b96b-71b55e800a38">
+    name="7.2.2.8.1 NCSA NPCF LSST system networking"
+    id="2d9cfae7-5120-4faa-b96b-71b55e800a38"
+    documentation="This is the networling within NPCF  that connects LSST specific systems  among themselves and to the NPCF Core Networking.  the system includes cabling to NIC cards of individual systems. This item excludes any system that requires the Core Netowork to reach. (e.g if storage is in the Condo, networking from the condo via the core is excluded.">
   <properties
       key="LDM-129"/>
+  <properties
+      key="Unit:gbps"/>
 </archimate:Node>

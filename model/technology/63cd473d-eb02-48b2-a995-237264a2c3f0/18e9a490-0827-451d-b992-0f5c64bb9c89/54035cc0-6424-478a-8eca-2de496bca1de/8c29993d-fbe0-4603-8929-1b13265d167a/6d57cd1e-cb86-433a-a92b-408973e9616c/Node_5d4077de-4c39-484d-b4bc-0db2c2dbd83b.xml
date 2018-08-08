@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone] Base Engineering File System upgrade Final Construction Capacity (Logical Node)"
+    id="5d4077de-4c39-484d-b4bc-0db2c2dbd83b"
+    documentation="This file system holds all engineering data, including EFD ETL file based data. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

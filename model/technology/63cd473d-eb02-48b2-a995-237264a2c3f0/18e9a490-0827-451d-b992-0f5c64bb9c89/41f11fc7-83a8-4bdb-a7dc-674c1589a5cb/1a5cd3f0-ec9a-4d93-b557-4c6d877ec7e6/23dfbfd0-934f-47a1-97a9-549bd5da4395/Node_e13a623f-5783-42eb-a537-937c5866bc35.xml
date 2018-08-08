@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA Developer Datasets File System"
-    id="e13a623f-5783-42eb-a537-937c5866bc35"/>
+    name="[NCSA Site FS] Developer Datasets File System (Logical Node)"
+    id="e13a623f-5783-42eb-a537-937c5866bc35"
+    documentation="Holds read-only (but possibly incrementally extended) datasets needed by developers. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

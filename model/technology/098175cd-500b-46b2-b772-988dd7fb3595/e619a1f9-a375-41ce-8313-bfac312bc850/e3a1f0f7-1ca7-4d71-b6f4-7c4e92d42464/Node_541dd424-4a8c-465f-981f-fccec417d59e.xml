@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Mass Store] Tape Library (Logical Node)"
+    id="541dd424-4a8c-465f-981f-fccec417d59e"
+    documentation="The BOW is the project pay for the slots used; unused slots are held by the center. ">
+  <properties
+      key="Unit:Slots"/>
+</archimate:Node>

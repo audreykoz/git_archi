@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA DAC] QSERV Holding Prior Release (Logical Node) "
+    id="b96da159-5961-42e7-85b8-32fb44421d36"
+    documentation="Each data release is held in a distinct QSERV instance. Two QSERV instances are active at any given time. (A third instance is part of the production enclave, and is moved to the DAC on completion of the release.)  QSERVE instances may not be reusable due to changes in storage technology.">
+  <properties
+      key="Unit:CUSTOM"/>
+</archimate:Node>

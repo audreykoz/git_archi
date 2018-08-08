@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base Site FS] Base Home Site File System (Node)"
-    id="a30dd896-63f1-4f60-a2de-ec36059388d5"/>
+    name="[Base Site FS] Base Home Site File System (Logical Node)"
+    id="a30dd896-63f1-4f60-a2de-ec36059388d5"
+    documentation="Holds login areas for developers and general staff.&#xA;This proves for capacity at the Base for the  construction project and deliverty to the operations project, exluding capacity needed for the Chilean DAC. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

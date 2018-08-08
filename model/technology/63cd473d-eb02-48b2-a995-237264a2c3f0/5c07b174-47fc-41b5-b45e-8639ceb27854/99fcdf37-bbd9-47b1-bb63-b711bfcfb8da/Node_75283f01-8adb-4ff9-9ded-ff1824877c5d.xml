@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PDAC] QSERV (Logical Node)"
+    id="75283f01-8adb-4ff9-9ded-ff1824877c5d"
+    documentation="The PDAC qserv represents a QSERV provisioning sufficent for prototyping.  This capability may be reconfigured as needs change. The capablity will change as QSERV provisioning concepts change.  For example the provisioning may need a refresh before end of like as storage technologies change.">
+  <properties
+      key="Unit:CUSTOM"/>
+</archimate:Node>

@@ -1,5 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[L1 NCSA] Compute Worker Nodes (Node)"
+    name="[L1 NCSA] Compute Worker Nodes (Logical Node)"
     id="fccbfb5c-23bb-4bea-9e3f-59e95ca5928f"
-    documentation="The compute worker nodes are drawn from teh overall pool of nodes provides for batch processing. The set of nodes drawn have uniform charateristics, to support relatiely constant run times for prompt processing codes.  Nomincally there  nodes can be thought of as oraganized into &quot;strings&quot;, where there is a node per CCD. Nomicnally two &quot;strings&quot; pus ready spares are drawn from the pool of batch nodes when Prompt processing is needed. "/>
+    documentation="The set of nodes drawn have uniform charateristics, to support relatiely constant run times for prompt processing codes.  Nominally these nodes can be thought of as organized into &quot;strings&quot;, where there is a node per CCD. Nominally two &quot;strings&quot; pus ready spares are provided. When not in use, these Nodes are places into the  general offline pool. ">
+  <properties
+      key="Unit:FLOPS"/>
+</archimate:Node>

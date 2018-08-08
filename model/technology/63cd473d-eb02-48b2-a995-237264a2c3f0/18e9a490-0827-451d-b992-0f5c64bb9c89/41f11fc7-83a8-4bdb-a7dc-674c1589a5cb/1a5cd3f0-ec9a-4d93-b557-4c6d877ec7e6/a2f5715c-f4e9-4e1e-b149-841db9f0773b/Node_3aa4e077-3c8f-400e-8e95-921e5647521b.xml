@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Data Backbone] NCSA Calibrations File Sytem [Node)"
-    id="3aa4e077-3c8f-400e-8e95-921e5647521b"/>
+    name="[Data Backbone Phase 1] NCSA Calibrations File System (Logical Node)"
+    id="3aa4e077-3c8f-400e-8e95-921e5647521b"
+    documentation="This file system holds all calibration products, including all calibrations used in production processing. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

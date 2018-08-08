@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base Site FS] Base Scratch File System (Node)"
-    id="caf24eb8-c877-401c-9861-9d2523515225"/>
+    name="[Base Site FS] Base Scratch File System (Logical Node)"
+    id="caf24eb8-c877-401c-9861-9d2523515225"
+    documentation="Holds a scratch area for staff.&#xA;This proves for capacity at the Base for the  construction project and deliverty to the operations project, exluding capacity needed for the Chilean DAC. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

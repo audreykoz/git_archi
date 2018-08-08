@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.2.02 NCSA Consolidated Database ITC"
-    id="a23e69c4-aa54-4978-bbf8-82f58acab2c2"/>
+    id="a23e69c4-aa54-4978-bbf8-82f58acab2c2"
+    documentation="The consolidated DB provisiokng is an infrastrucute that can realize many indepdent data bases in many independent enclaves. The infrstructure can support instanced  for development test and integration. The infrastucure can support databses that reasied in a DAC (e.g. MyDB).  an ORACLE RAC is a pracitcel mode for this type of infrastructure.">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NMP"/>
+</archimate:Folder>

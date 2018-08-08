@@ -1,4 +1,11 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.4 NCSA Production Enclave"
-    id="3acf56d4-a586-434c-934f-7a9db61c598e"/>
+    id="3acf56d4-a586-434c-934f-7a9db61c598e">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NPRO"/>
+</archimate:Folder>

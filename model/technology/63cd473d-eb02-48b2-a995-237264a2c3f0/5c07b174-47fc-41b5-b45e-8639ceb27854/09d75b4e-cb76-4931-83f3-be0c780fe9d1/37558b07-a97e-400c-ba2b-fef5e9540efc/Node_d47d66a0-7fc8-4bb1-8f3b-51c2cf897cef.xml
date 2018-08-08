@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Comcam/LSSTCam Camera Data System (Logical Node)"
+    id="d47d66a0-7fc8-4bb1-8f3b-51c2cf897cef"
+    documentation="The Camera Data System(s) provide emulation of the live coma cam and Main cam  providing pixels to readou systems sufficient for accurate development, integration and test of the L1 system for the respective cameras.&#xA;&#xA;">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

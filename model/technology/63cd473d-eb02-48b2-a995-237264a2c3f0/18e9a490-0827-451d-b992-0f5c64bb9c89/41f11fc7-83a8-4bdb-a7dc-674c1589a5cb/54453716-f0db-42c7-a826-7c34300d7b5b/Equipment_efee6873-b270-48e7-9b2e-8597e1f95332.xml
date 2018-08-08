@@ -1,0 +1,8 @@
+<archimate:Equipment
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA misc] Power/cooling (Equipment)"
+    id="efee6873-b270-48e7-9b2e-8597e1f95332"
+    documentation="This item captures stand-alone power sources such as UPS, and any special cooling devices. ">
+  <properties
+      key="Unit:Watts"/>
+</archimate:Equipment>

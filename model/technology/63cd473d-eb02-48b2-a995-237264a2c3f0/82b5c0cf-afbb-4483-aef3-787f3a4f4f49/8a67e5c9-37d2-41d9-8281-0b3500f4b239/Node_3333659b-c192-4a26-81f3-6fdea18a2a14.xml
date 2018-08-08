@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base DAC] User Login Computer (Node)"
-    id="3333659b-c192-4a26-81f3-6fdea18a2a14"/>
+    name="[Base DAC] Head Nodes and Misc (Logical Node)"
+    id="3333659b-c192-4a26-81f3-6fdea18a2a14"
+    documentation="This node represents a head node capablity for Batch scheduling, interactive Login, Kubernetes head nodes and static services and similar functions. Provisioning is separately considered to provide resource isolation from other enclaves at the site.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

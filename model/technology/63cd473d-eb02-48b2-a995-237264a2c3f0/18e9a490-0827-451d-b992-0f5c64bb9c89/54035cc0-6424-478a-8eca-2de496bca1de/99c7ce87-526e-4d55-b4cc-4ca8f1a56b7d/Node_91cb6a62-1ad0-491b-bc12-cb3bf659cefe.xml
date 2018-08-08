@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base CON DB] Consolidated Database Compute (Logical Node)"
+    id="91cb6a62-1ad0-491b-bc12-cb3bf659cefe"
+    documentation="Database compute nodes process users queries, often in a distributed fashion.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

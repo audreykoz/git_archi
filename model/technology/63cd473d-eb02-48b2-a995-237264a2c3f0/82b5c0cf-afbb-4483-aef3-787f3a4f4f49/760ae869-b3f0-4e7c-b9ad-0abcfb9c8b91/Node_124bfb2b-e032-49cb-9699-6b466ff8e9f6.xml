@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA DAC] Bulk Export Service Presentation nodes (Logical Node)"
+    id="124bfb2b-e032-49cb-9699-6b466ff8e9f6"
+    documentation="These nodes are Bulk Export end nodes.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

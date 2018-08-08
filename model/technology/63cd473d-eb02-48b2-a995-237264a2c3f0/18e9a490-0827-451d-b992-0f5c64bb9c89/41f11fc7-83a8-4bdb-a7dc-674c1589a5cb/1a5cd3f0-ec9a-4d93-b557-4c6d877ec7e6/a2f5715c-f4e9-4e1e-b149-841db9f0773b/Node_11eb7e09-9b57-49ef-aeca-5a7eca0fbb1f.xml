@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Data  Backbone] NCSA Raw Files File System (Node)"
-    id="11eb7e09-9b57-49ef-aeca-5a7eca0fbb1f"/>
+    name="[Data Backbone Phase 1] NCSA Raw Files File System (Logical Node)"
+    id="11eb7e09-9b57-49ef-aeca-5a7eca0fbb1f"
+    documentation="This file system hold all raw data files from from the Spectrograph, Comcam and LSST Cam.   Designated Cross-talk corrected data may be saved here as well. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

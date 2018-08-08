@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA NET] NPCF Core Networking (Logical Node)"
+    id="4b0a4e8c-0719-4700-91e1-0c48d5fa6bc0"
+    documentation="Core routes is use to connect LSST systems to common infrastructure and to the NPCF border.  Core routing for NPCF.  Projects fund a fair share of core use.">
+  <properties
+      key="Unit:Throughput"/>
+</archimate:Node>

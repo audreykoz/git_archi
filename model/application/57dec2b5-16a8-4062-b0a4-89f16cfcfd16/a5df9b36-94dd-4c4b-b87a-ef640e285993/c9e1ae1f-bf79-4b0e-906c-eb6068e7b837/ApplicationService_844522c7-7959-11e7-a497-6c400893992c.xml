@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="L1 Offline Processing Service for LSSTCam Raw Calibration Assessment"
+    id="844522c7-7959-11e7-a497-6c400893992c">
+  <properties
+      key="UseCaseSatisfactionServices"/>
+</archimate:ApplicationService>

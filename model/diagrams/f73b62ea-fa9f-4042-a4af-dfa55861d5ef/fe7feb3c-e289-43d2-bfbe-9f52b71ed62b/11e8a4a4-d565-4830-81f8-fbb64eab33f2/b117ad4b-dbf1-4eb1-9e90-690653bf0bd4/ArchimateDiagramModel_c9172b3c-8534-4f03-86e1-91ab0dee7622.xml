@@ -5,7 +5,29 @@
     id="c9172b3c-8534-4f03-86e1-91ab0dee7622">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
+      id="adfadea6-422f-4cd3-90dd-40a43eb2ece2"
+      targetConnections="3aece1b2-339a-43e6-b25e-d35e8cd21bb7">
+    <bounds
+        x="48"
+        y="180"
+        width="120"
+        height="97"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationFunction"
+        href="ApplicationFunction_0bbd6bfa-02b0-42ae-b8e2-ec4695b8de30.xml#0bbd6bfa-02b0-42ae-b8e2-ec4695b8de30"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
       id="dbb50d6c-3c28-4954-a0f3-9efb4c3f3a50">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="3aece1b2-339a-43e6-b25e-d35e8cd21bb7"
+        source="dbb50d6c-3c28-4954-a0f3-9efb4c3f3a50"
+        target="adfadea6-422f-4cd3-90dd-40a43eb2ece2">
+      <archimateRelationship
+          xsi:type="archimate:ServingRelationship"
+          href="ServingRelationship_95e9cfd1-bd65-4c20-9f8b-769fbbffe217.xml#95e9cfd1-bd65-4c20-9f8b-769fbbffe217"/>
+    </sourceConnections>
     <bounds
         x="48"
         y="372"

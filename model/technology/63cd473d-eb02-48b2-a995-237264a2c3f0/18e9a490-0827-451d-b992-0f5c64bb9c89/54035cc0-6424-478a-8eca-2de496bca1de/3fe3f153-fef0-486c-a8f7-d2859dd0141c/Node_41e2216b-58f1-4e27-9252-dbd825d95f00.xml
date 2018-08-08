@@ -1,7 +1,9 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base ITC] Vsphere (Node)"
+    name="[Base ITC] Vsphere Compute (Logical Node)"
     id="41e2216b-58f1-4e27-9252-dbd825d95f00">
   <properties
-      key="LDM-129"/>
+      key="Unit:Logical Cores"/>
+  <properties
+      key="Enc:L1"/>
 </archimate:Node>

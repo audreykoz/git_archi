@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA NET] Path to ESNET in Chicago (Logical Node)"
+    id="859f6f69-f460-425d-ba99-21bd7f1e0302"
+    documentation="This is the cost of the channel on a fiber path to the ESNET POP in Chicago, and the costs of pathing the fiber to the ESNET routers.">
+  <properties
+      key="Unit:Throughput"/>
+</archimate:Node>

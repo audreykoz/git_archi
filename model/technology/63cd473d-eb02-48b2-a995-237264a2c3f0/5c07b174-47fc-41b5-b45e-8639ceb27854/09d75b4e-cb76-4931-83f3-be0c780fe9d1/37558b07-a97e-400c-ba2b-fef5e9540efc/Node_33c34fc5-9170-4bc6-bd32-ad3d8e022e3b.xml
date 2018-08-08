@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Real Time Alert Database Perimeter bandwidth (Logical Node)"
+    id="33c34fc5-9170-4bc6-bd32-ad3d8e022e3b"
+    documentation="The real time alert datbase is a DBMS of TBD technology that is used in alert perocessing, to record alerts and as a source of prior detections of objects. This represents  the need for max(inout, output) bandwidth of the data base system.">
+  <properties
+      key="Unit:gbps"/>
+</archimate:Node>

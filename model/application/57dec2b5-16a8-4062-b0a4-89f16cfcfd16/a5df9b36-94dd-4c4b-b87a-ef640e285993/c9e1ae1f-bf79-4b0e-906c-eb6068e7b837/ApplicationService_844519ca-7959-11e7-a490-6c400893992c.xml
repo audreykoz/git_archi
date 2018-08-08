@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSSTCam Prompt Processing Service for Feedback of Science Image Parameters to Observatory Operations"
+    id="844519ca-7959-11e7-a490-6c400893992c">
+  <properties
+      key="UseCaseSatisfactionServices"/>
+</archimate:ApplicationService>

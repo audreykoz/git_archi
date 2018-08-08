@@ -1,4 +1,11 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.3.4 LSST DEV and Misc"
-    id="da908e75-70a6-46d3-b291-7c0abc1b283a"/>
+    id="da908e75-70a6-46d3-b291-7c0abc1b283a">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NDI"/>
+</archimate:Folder>

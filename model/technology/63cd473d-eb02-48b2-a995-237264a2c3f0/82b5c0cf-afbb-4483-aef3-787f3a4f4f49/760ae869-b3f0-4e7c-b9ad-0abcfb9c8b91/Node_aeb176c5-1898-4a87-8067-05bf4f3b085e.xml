@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA DAC] MyDB Storage (Logical Node)"
+    id="aeb176c5-1898-4a87-8067-05bf4f3b085e"
+    documentation="The NCSA MyDB holds database state created by users of the DAC. This represents usable storage.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

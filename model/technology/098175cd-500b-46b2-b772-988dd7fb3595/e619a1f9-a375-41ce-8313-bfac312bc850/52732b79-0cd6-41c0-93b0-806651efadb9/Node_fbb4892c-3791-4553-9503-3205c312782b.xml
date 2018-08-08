@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Openstack] Openstack Workers (Logical Node)"
+    id="fbb4892c-3791-4553-9503-3205c312782b"
+    documentation="sigh">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

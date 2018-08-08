@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Mass Store] Tape Movers (Logical Node)"
+    id="1ad9f5d1-4248-4bef-b8c3-7284b220afb9"
+    documentation="The BOE is other center provides mover resources for the center tape drives, project pay for mover resources for project tape drives.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

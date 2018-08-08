@@ -1,0 +1,8 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OO 2: Spectrograph Bundle (Plateau)"
+    id="bf64d813-3fd6-4e5b-9ed6-0b412f16d6b9"
+    documentation="The spectrograph bundle provides the archiving,  and Observatory Operations Service functions for the spectrograph device.&#xA;&#xA;This  system is intially deployed at the Summit.  There is a need to both Disaster recover the Application Support File system,&#xA;and to  backup ay unique fiel state (such as application confiiguration files).    ITs assumed these poDR and Backup resrouce is wiht the VMWAre deplyment at the vbase, given the modest requirement. &#xA;">
+  <properties
+      key="Pla:00SpectographTestStand"/>
+</archimate:Plateau>

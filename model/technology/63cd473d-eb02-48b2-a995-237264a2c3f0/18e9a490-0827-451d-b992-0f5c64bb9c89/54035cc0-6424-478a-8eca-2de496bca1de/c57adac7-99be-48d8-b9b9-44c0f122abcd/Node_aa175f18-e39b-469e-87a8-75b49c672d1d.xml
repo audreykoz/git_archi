@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Kub] Base Kubernetes Worker Nodes (Node) "
-    id="aa175f18-e39b-469e-87a8-75b49c672d1d"/>
+    name="[Base Kub] Base Kubernetes Worker Nodes (Logical Node) "
+    id="aa175f18-e39b-469e-87a8-75b49c672d1d"
+    documentation="Kubernetes ITC provides for an Elastic capability for services. Unused Kubernetes capacity can be used by the condor based batch system.  &#xA;This proves for capacity at the Base for the  construction project and deliverty to the operations project, exluding capacity needed for the Chilean DAC. ">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

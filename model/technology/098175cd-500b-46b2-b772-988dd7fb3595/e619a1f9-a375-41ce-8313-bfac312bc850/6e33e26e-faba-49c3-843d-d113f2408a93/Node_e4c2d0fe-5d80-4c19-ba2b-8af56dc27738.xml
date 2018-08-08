@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Commons] Network Security Storage Infrastructure (Logical Node)"
+    id="e4c2d0fe-5d80-4c19-ba2b-8af56dc27738"
+    documentation="the BOE is that projects pay a fair share of the operational and refesh costs the network security infrstrucutre.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

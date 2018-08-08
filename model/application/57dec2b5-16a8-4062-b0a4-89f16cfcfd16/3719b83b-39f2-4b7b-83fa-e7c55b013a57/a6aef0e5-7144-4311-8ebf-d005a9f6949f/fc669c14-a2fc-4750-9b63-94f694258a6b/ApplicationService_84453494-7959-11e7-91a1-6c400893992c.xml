@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="PDAC Hosting Service (Application Service)"
+    name="PDAC Hosting Service"
     id="84453494-7959-11e7-91a1-6c400893992c">
   <properties
       key="UseCaseSatisfactionServices"/>

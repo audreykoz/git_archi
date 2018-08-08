@@ -1,7 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA Production Login Node"
-    id="da782a0e-405e-44fc-ad40-853d602e6caa">
+    name="[NCSA Production] Head Nodes and Misc (Logical Node)"
+    id="da782a0e-405e-44fc-ad40-853d602e6caa"
+    documentation="This node represents a head node capability for Batch scheduling, interactive Login, Kubernetes head nodes and simlar function. Provisioning is separately considered to provide resource isolation and aslo to proves a defined controlled version for production, and provides the babsi for preventing accidental &quot;leakage&quot; of non-production sofotare to data files into the production environment from other enclaves at the site.">
   <properties
-      key="LDM-129"/>
+      key="Unit:Logical Cores"/>
 </archimate:Node>

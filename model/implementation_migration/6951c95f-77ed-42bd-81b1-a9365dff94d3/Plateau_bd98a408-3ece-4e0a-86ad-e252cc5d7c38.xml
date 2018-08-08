@@ -1,0 +1,8 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OO 4: Base Science Platform (Plateau)"
+    id="bd98a408-3ece-4e0a-86ad-e252cc5d7c38"
+    documentation="The mase science platform procide a batch and Jupyter hub implementation. The puptpose fo the implemenation is to suppport camera and telescope operatipon at the base.  SHell login to the cluster is supported as welll access thought Jupyter.">
+  <properties
+      key="Pla:OOBaseSciencePlatform"/>
+</archimate:Plateau>

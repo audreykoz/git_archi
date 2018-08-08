@@ -1,4 +1,10 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA Developer Scratch FIle System"
-    id="026f9581-112a-4f62-b53d-609ea7b7f0ea"/>
+    name="[NCSA Site FS] Developer Scratch FIle System (Logical Node)"
+    id="026f9581-112a-4f62-b53d-609ea7b7f0ea"
+    documentation="Holds a scratch area for developers">
+  <properties
+      key="Useable TB"/>
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

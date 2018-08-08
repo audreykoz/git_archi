@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Base Dedicated Batch Nodes (Node)"
-    id="54078b85-1806-4e04-8211-1d2fa825e9a5"/>
+    name="[Base Batch] Base Dedicated Batch Nodes (Logical Node)"
+    id="54078b85-1806-4e04-8211-1d2fa825e9a5"
+    documentation="Batch worker nodes have minimal disk, jobs use site file systems, and production jobs use data backbone file systems directly.&#xA;This provides for capacity at the Base for the construction project and delivery to the operations project, exluding capacity needed for the Chilean DAC.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="MIscellaneous DB (Node)"
-    id="d1a925c2-da05-4dc4-80de-a9421034a1be"/>
+    name="[NCSA Misc DB] Provisioning Perimeter Bandwidth (Logical Node)"
+    id="d1a925c2-da05-4dc4-80de-a9421034a1be"
+    documentation="Hosting of nonrelational databases or other databases which cannot be consolidated">
+  <properties
+      key="Unit:gbps"/>
+</archimate:Node>

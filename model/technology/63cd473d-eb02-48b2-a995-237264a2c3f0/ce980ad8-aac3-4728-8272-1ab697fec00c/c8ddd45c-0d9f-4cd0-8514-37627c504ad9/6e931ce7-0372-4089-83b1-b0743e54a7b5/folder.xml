@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.5.1.1 Spectrograph Bundle ITC"
-    id="6e931ce7-0372-4089-83b1-b0743e54a7b5"/>
+    name="7.7.1.1 Spectrograph Bundle ITC"
+    id="6e931ce7-0372-4089-83b1-b0743e54a7b5">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:BASE"/>
+  <properties
+      key="Enc:L1"/>
+  <properties/>
+</archimate:Folder>

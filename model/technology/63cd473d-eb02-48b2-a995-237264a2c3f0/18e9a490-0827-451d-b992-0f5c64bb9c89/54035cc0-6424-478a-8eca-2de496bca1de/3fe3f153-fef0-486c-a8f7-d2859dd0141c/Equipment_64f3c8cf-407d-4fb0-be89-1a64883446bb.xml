@@ -1,4 +1,7 @@
 <archimate:Equipment
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[Base ITC] Arista Switch(Equipment)"
-    id="64f3c8cf-407d-4fb0-be89-1a64883446bb"/>
+    id="64f3c8cf-407d-4fb0-be89-1a64883446bb">
+  <properties
+      key="Unit:CUSTOM"/>
+</archimate:Equipment>

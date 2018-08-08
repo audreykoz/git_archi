@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA DR] NCSA Disk Based Disaster Recovery File System for LSSTCam Early Use (Logical Node)"
+    id="88c88dd1-654a-4fe9-874f-001a1eec0eab"
+    documentation="This logical node represents disaster recovery storage. It supports keeping copies of designated file system should file systems fail.  ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

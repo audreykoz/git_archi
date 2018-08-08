@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone Phase 2] NCSA Engineering File System Expansion for LSSTCam early ops (Logical Node) "
+    id="f8cc0d5b-a794-497e-ab21-d315bf94d08b"
+    documentation="This file system hold all engineering data, including EFD ETL file based data.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

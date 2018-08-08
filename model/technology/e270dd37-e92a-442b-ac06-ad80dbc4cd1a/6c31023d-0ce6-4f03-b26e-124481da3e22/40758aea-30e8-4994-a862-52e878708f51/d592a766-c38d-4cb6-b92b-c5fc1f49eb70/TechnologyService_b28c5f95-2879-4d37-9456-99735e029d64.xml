@@ -1,0 +1,5 @@
+<archimate:TechnologyService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="NCSA Batch Service  for Production (Technology Service)"
+    id="b28c5f95-2879-4d37-9456-99735e029d64"
+    documentation="THsi is acecees to a barch syste where the configuration of the nodes is consistent with the Productin enclave Security Plan.  An exam pel concenr is taht productin batch jobs may be abel to read and write  systems which the devleopm,ent enclave nodes cannot.  Also the pvera ll resources of the bath pool are managed with a policy consistent with production needs."/>

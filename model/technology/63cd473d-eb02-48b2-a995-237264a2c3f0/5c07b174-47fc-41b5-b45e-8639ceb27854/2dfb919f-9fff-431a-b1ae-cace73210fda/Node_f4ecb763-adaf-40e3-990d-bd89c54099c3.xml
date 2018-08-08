@@ -1,7 +1,7 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="QSERV Development Nodes"
+    name="[QSERV Development] QSERV Development Nodes (Logical Node) "
     id="f4ecb763-adaf-40e3-990d-bd89c54099c3">
   <properties
-      key="LDM-129"/>
+      key="Unit:Logical Cores"/>
 </archimate:Node>

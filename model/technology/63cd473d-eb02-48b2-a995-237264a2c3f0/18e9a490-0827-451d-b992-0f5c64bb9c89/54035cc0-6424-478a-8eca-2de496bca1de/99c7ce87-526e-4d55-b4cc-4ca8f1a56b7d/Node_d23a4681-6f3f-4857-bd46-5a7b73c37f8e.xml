@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base CON DB] Consolidated DB Perimeter Bandwidth DAC Upgrade (Logical Node)"
+    id="d23a4681-6f3f-4857-bd46-5a7b73c37f8e"
+    documentation="Shared everything databases have connectivity needs and may be suported by a special cluster network provisioning. ">
+  <properties
+      key="Unit:gbps"/>
+</archimate:Node>

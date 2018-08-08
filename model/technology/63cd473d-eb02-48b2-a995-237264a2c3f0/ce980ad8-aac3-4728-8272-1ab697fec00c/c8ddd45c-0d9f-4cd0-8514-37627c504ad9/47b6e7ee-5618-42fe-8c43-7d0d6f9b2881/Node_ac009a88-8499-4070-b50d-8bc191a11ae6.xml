@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base] Base LSSTCam OOS Site File System (Logical Node) "
+    id="ac009a88-8499-4070-b50d-8bc191a11ae6"
+    documentation="These file system(s) holds data that has been recently acquired from the LSSTCam. The file systems satisfy two needs.  A place to park data pending ingest to the data backboone, and a cahce fo recent and designted data for use by clients at the base, incuding the Base science platform. The file system needs to be avaiable whenever the archiving function is needed. The system needs to have sufficient performance to handle the maximum archiving  rate of the camera it suporting cameras, the ingests data are sent to the Data Backbone proper, plus a margin for exposing files to the  commisisoning cluster and other observatory. ">
+  <properties
+      key="Unit:Useable TB"/>
+  <properties
+      key="Enc:L1"/>
+</archimate:Node>

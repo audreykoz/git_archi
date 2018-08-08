@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.2.2.10 NCSA Racks and  Related Insfratructure Supporting ITC"
-    id="54453716-f0db-42c7-a826-7c34300d7b5b"/>
+    name="7.2.2.10 NCSA Racks and Related Infrastructure Supporting Equipment"
+    id="54453716-f0db-42c7-a826-7c34300d7b5b"
+    documentation="This  item captures physical eqiuipment not well captured as a Logical Node.&#xA;Examples are rack andUPS infrastrucutre that services multiple logical hardware items.  ">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NMP"/>
+</archimate:Folder>

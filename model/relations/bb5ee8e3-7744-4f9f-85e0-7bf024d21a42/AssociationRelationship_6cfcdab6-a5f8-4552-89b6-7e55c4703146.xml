@@ -1,0 +1,12 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Consistent With"
+    id="6cfcdab6-a5f8-4552-89b6-7e55c4703146">
+  <source
+      xsi:type="archimate:Contract"
+      href="Contract_9898ba0e-cc60-424c-8bd2-a0c28a532bc3.xml#9898ba0e-cc60-424c-8bd2-a0c28a532bc3"/>
+  <target
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_841cb2dd-90f5-43d3-9960-dd90391d6b7c.xml#841cb2dd-90f5-43d3-9960-dd90391d6b7c"/>
+</archimate:AssociationRelationship>

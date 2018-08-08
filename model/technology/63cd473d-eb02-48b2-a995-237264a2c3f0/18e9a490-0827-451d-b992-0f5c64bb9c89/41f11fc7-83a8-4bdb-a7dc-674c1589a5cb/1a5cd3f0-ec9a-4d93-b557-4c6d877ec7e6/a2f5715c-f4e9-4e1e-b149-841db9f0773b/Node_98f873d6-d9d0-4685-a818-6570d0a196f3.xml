@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone Phase 3] NCSA Raw Files File System Expansion for Final Capacity (Logical Node)"
+    id="98f873d6-d9d0-4685-a818-6570d0a196f3"
+    documentation="This file system hold all raw data files from from the Spectrograph, Comcam and LSST Cam.   Designated Cross-talk corrected data may be saved here as well. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

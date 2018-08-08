@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PDAC] MyDB Storage (Logical Node)"
+    id="e389c963-84be-468c-a954-b5d0fd8ce541"
+    documentation="The PDAC MyDB holds database state created by users of the DAC.  ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

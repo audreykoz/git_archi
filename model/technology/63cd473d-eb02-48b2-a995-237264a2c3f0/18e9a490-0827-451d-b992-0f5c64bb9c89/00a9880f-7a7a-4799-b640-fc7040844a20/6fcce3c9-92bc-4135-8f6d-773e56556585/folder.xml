@@ -1,4 +1,14 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.3.1 Summit VMWare for ITC and Security and AA"
-    id="6fcce3c9-92bc-4135-8f6d-773e56556585"/>
+    id="6fcce3c9-92bc-4135-8f6d-773e56556585"
+    documentation="NCSA provides information security related services and an authenitcation and authorization endpoint at the summit. These hardware elements provide teh hardware suport for these servces. ">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:SUMMIT"/>
+  <properties
+      key="Enc:SMP"/>
+  <properties
+      key="PlaLSummitSec"/>
+</archimate:Folder>

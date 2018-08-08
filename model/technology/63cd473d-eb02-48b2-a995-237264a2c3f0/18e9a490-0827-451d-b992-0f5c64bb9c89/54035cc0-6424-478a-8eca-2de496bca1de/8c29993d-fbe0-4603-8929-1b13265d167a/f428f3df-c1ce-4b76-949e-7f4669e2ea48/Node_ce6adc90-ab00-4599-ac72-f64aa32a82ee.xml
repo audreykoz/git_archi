@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Base Kubernetes Container Storage File System"
-    id="ce6adc90-ab00-4599-ac72-f64aa32a82ee"/>
+    name="[Base Site FS] Base Kubernetes Container Storage File System (Logical Node)"
+    id="ce6adc90-ab00-4599-ac72-f64aa32a82ee"
+    documentation="This proves for capacity at the Base for the  construction project and deliverty to the operations project, exluding capacity needed for the Chilean DAC. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

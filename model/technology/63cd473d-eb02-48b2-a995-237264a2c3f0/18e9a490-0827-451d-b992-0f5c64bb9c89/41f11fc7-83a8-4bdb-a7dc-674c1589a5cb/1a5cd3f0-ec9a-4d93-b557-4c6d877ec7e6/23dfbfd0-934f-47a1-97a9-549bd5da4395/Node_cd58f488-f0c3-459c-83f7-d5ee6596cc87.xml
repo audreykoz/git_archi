@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Site FS] Backup File System upgrasde for operational qserv (Logical Node)"
+    id="cd58f488-f0c3-459c-83f7-d5ee6596cc87"
+    documentation="Holds backups. Recall that for many file systems GPFS SNAPS constiture backups. However there are other backup cases. for example a place to keep database logs external to a database enviroment. This file system provide capability for backups-other-than-by snapshots.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

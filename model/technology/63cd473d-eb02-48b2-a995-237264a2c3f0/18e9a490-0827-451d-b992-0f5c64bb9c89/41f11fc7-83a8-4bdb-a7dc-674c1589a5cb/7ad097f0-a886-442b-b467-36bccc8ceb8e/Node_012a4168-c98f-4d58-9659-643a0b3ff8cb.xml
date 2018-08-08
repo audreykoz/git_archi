@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Batch] Dedicated Batch Nodes LSSTCam Early Use Upgrade (Logical Node)"
+    id="012a4168-c98f-4d58-9659-643a0b3ff8cb"
+    documentation="Batch worker nodes have minimal disk, jobs use site file systems, and production jobs use data backbone file systems directly. This upgrade supports ">
+  <properties
+      key="Unit:FLOPS"/>
+</archimate:Node>

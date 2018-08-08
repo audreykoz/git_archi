@@ -1,0 +1,5 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="DA 3: Offline Alerts (Plateau)"
+    id="cde5ba6c-bea1-4103-9e39-b6fb8c291934"
+    documentation="This is the capability of running alert production in the offline mode, running the LSST mini brloker, feeding alerts into the offline database and sending alerts to community-provided brokers."/>

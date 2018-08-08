@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 NCSA] Compute Worker Nodes Phase II suppliment  (Logical Node)"
+    id="87b9af6a-b436-44cc-8d99-9a795ad0cb57"
+    documentation="Supploiment the nodes, if needed for hte L1 processing. The set of nodes drawn have uniform charateristics, to support relatiely constant run times for prompt processing codes.  Nominally these nodes can be thought of as organized into &quot;strings&quot;, where there is a node per CCD. Nominally two &quot;strings&quot; pus ready spares are provided. When not in use, these Nodes are places into the  general offline pool. ">
+  <properties
+      key="Unit:FLOPS"/>
+</archimate:Node>

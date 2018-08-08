@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base CON DB] Consolidated Database SAN + Storage DAC Upgrade (Logical Node) "
+    id="4f8bcf84-d77c-48eb-bd68-72ceb5ffc03c"
+    documentation="The baseline is a shared everything database, storage for this database models as a storage area network supporting block storage, where data potentially is available to any node.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

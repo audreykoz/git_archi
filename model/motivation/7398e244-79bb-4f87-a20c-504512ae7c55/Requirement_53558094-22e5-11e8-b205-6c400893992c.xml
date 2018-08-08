@@ -1,5 +1,5 @@
 <archimate:Requirement
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[lsst syseng] Consistency with CCS and DM  ICD (Requirement)"
+    name="[lsst syseng]Consistency with CCS and DM  ICD (Requirement)"
     id="53558094-22e5-11e8-b205-6c400893992c"
     documentation="The Interface Control Document between camera Control systems for the spectrograph, comacam and lsstcam and DM&#xA;"/>

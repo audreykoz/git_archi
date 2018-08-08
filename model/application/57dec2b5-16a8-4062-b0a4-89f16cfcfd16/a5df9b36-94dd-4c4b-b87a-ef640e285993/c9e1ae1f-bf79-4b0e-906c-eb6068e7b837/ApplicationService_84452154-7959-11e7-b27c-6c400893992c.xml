@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="L1 Offline Processing Service for ComCam Alert Production"
+    id="84452154-7959-11e7-b27c-6c400893992c">
+  <properties
+      key="UseCaseSatisfactionServices"/>
+</archimate:ApplicationService>

@@ -1,4 +1,11 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.7.3 Tucson Test Stand ITC"
-    id="8d362659-9a47-4dcf-8883-5cf1531787f5"/>
+    id="8d362659-9a47-4dcf-8883-5cf1531787f5">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:TUCSON"/>
+  <properties
+      key="Enc:TTS"/>
+</archimate:Folder>

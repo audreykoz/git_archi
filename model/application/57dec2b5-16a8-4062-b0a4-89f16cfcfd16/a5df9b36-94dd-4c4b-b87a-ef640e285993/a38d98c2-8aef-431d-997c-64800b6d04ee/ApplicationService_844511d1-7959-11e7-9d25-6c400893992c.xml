@@ -1,6 +1,5 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Spectrograph Archiving] Spectrograph Archiving Control Service (Application Service) "
     id="844511d1-7959-11e7-9d25-6c400893992c">
   <properties
       key="UseCaseSatisfactionServices"/>

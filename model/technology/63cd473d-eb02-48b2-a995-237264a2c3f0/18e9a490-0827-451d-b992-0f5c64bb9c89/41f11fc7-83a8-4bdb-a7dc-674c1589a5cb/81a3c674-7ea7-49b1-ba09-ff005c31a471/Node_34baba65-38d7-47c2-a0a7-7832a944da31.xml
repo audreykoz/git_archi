@@ -1,7 +1,10 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.2.8.1 NCSA 3003 Development Lab Networking for LSST"
-    id="34baba65-38d7-47c2-a0a7-7832a944da31">
+    id="34baba65-38d7-47c2-a0a7-7832a944da31"
+    documentation="This includes networking to support connectivity fo LSST resources in the NCSA 3003 lab. It includee teh swtrch/router in the room, any added network equipment  to connect LSST lab iterms to the core at NPCF, and cablingform the room 3003 hub to endpoints -- either machines or TOR swtiches. It include any inline security devices. ">
   <properties
       key="LDM-129"/>
+  <properties
+      key="Unit:gbps"/>
 </archimate:Node>

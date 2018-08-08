@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base Kub] Base Kubernetes Worker Nodes DAC upgrade (Logical Node)"
+    id="1a9f571b-80ed-4a14-ab74-9ce7bec1aba9"
+    documentation="Kubernetes ITC provides for an Elastic capability for services. Unused Kubernetes capacity can be used by the condor based batch system. This node represents an upgrade in capacity in the commons for DAC usage.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

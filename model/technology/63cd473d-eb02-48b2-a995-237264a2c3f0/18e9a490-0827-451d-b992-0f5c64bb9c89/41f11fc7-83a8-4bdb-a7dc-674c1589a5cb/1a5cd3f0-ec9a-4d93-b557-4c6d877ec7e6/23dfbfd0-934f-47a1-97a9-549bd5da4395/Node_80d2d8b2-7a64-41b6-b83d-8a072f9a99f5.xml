@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Site FS] Developer Scratch FIle System for LSSTCam Early Use  (Logical Node)"
+    id="80d2d8b2-7a64-41b6-b83d-8a072f9a99f5"
+    documentation="Holds a scratch area for developers">
+  <properties
+      key="Useable TB"/>
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

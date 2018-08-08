@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone] Base Raw File System upgrade Final Construction Capacity (Logical Node)"
+    id="027a63e7-22d1-4e53-8529-a8b9e4941241"
+    documentation="This file system hold all the raw data files from from the Spectrograph, Comcam and LSST Cam.   Designated Cross-talk corrected data may be saved here as well. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

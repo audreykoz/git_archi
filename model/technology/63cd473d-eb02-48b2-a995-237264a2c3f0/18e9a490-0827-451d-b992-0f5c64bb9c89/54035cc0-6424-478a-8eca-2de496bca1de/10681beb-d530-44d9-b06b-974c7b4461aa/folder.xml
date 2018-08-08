@@ -1,4 +1,13 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.2.1.06 Base Misc DB ITC"
-    id="10681beb-d530-44d9-b06b-974c7b4461aa"/>
+    name="7.2.1.06 Base Miscellaneous DB ITC"
+    id="10681beb-d530-44d9-b06b-974c7b4461aa"
+    documentation="Provisioning for databases other than QSERV or hosted from the consolidated database.">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:BASE"/>
+  <properties
+      key="Enc:BMP"/>
+  <properties/>
+</archimate:Folder>

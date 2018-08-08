@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.3.1 L1 Complete Test Stand"
-    id="09d75b4e-cb76-4931-83f3-be0c780fe9d1"/>
+    id="09d75b4e-cb76-4931-83f3-be0c780fe9d1"
+    documentation="The Level one complete test stand is a set of hardware rersources needed to develope, test and integrate the Prompt  processing, data archivng and other L1 services.  This harware also supports instances of up stream services such as  the OCS, and downstream resources such as the internal alert distribution services.">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NDI"/>
+</archimate:Folder>

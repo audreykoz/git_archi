@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[NCSA Batch] Scheduler Host (Node)"
-    id="a821f080-1f81-4a0d-a1cf-938a4844105c"/>
+    name="[NCSA Batch] Scheduler Host (Logical Node)"
+    id="a821f080-1f81-4a0d-a1cf-938a4844105c"
+    documentation="This logical compute node provides scheduling and other supporting logic for batch use cases, except for L1 scheduling logic which has its own scheduler.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA DIsk Based DIsaster Recovery Store (Node)"
-    id="805d7c2f-cba4-41c1-b625-4399ede48ca7"/>
+    name="[NCSA DR] NCSA Disk Based Disaster Recovery File System (Logical Node)"
+    id="805d7c2f-cba4-41c1-b625-4399ede48ca7"
+    documentation="This logical node represents disaster recovery storage. It supports keeping copies of designated file system should file systems fail.  ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

@@ -1,4 +1,16 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.1.02 Base Consolidated Database ITC"
-    id="99c7ce87-526e-4d55-b4cc-4ca8f1a56b7d"/>
+    id="99c7ce87-526e-4d55-b4cc-4ca8f1a56b7d"
+    documentation="The consolidated DB provisiokng is an infrastrucute that can realize many indepdent data bases in many independent enclaves. The infrstructure can support instanced  for development test and integration. The infrastucure can support databses that reasied in a DAC (e.g. MyDB).  an ORACLE RAC is a pracitcel mode for this type of infrastructure.">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:BASE"/>
+  <properties
+      key="Enc:BMP"/>
+  <properties
+      key="Pla:OOBaseSciencePlatform"/>
+  <properties/>
+  <properties/>
+</archimate:Folder>

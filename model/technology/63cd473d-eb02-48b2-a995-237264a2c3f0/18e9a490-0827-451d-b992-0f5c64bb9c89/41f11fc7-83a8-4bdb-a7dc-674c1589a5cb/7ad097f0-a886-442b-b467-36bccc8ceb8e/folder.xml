@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.2.01 NCSA Batch Cluster Core ITC"
-    id="7ad097f0-a886-442b-b467-36bccc8ceb8e"/>
+    id="7ad097f0-a886-442b-b467-36bccc8ceb8e"
+    documentation="THis is a collection of batch nodes that are dispoensed for use in the Produciton, Development and DAC enciaves.  during rhe process of dispensing the nodes, the nodes are configured to the management and information security requirements of each enclave. ">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NMP"/>
+</archimate:Folder>

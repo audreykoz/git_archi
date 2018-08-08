@@ -1,5 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[L1 NCSA] Alert Production Template Cache (Node) "
+    name="[L1 NCSA] Alert Production Template Cache (Logical Node) "
     id="246733e1-5f27-4ffc-9461-8ce59ebab70b"
-    documentation="The Laert Production template Cache holds Template images used by difference imaging function of ALert Produciton. "/>
+    documentation="The Alert Production template Cache holds Template images used by difference imaging function of Alert Produciton. The Cache has the availablity of the L1 system, and therefore has a separate implementation from the Data Backbone">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

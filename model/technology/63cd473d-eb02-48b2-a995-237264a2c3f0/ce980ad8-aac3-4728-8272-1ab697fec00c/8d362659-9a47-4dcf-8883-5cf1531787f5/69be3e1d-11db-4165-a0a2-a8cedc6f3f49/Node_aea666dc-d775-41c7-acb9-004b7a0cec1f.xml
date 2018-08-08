@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Spectrograph Test Stand] Compute and storage ITC (Logical Node)"
+    id="aea666dc-d775-41c7-acb9-004b7a0cec1f"
+    documentation="The Spectrograph Test Stand is a node that supports the spectrograph Archiver, supporting control systems and a disk buffer that is not required to be a fully functional Observatory Operations server.  The buffer exposes recently acquired data from the spectrograph camera to users of the spectrograph test stand.&#xA;&#xA;This node is deployed in Tucson ">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

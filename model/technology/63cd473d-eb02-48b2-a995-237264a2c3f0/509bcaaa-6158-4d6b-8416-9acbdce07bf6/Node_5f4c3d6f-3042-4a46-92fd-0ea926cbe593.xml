@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.6.1. Commissioning Cluster Head Nodes and Misc"
-    id="5f4c3d6f-3042-4a46-92fd-0ea926cbe593"/>
+    name="7.6.1. Commissioning Cluster Head Nodes and Misc (Logical Node) "
+    id="5f4c3d6f-3042-4a46-92fd-0ea926cbe593"
+    documentation="This node represents a head node capablity for Batch scheduling, interactive login and Kubernetes head nodes and simlar functions.  Login nodes are neeed to recieve file SCP like file transfer when staff have not activated a Jupyter Shell.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

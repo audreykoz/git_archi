@@ -1,4 +1,11 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NCSA Openstack Technology Services"
-    id="52732b79-0cd6-41c0-93b0-806651efadb9"/>
+    id="52732b79-0cd6-41c0-93b0-806651efadb9">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:RM3003"/>
+  <properties
+      key="Enc:NCSA_COMMONS"/>
+</archimate:Folder>

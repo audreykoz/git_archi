@@ -1,0 +1,12 @@
+<archimate:Folder
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="7.2.2.03 NCSA Kubernetes ITC"
+    id="efea1caf-fec0-467b-ab7a-b2017a8884aa"
+    documentation="Kubernetes ITC provides for an Elastic capability for services.   Unused Kubernetes capacity  can be used by the condor based batch system. ">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NMP"/>
+</archimate:Folder>

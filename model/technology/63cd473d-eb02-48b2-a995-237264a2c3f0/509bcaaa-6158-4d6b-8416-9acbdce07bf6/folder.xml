@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.6 Enclave Holding Commissiong Cluster"
-    id="509bcaaa-6158-4d6b-8416-9acbdce07bf6"/>
+    name="7.6 Enclave Holding Commissioning Cluster"
+    id="509bcaaa-6158-4d6b-8416-9acbdce07bf6"
+    documentation="The enclave holding the commissioning cluster primariy draws batch worker and kubernetes worker resources from the Base Master Provisioning Enclave.&#xA;The Commisisoning cluster also draws on the Base instance of the consolidate database, and site file systems.  These are enumerated under the appropriate categories.  ">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:BASE"/>
+  <properties
+      key="Enc:unknown"/>
+</archimate:Folder>

@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Prompt Processing Service"
+    id="84453751-7959-11e7-aa04-6c400893992c">
+  <properties
+      key="ReusableServices"/>
+</archimate:ApplicationService>

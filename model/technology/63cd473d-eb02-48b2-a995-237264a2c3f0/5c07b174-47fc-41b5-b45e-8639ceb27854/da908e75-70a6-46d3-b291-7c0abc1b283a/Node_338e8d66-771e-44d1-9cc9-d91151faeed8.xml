@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[LSST DEV] LSST DB Unmanaged Database for Developers (Logical Node)"
+    id="338e8d66-771e-44d1-9cc9-d91151faeed8"
+    documentation="This node supports unmanaged databse  query and storage resource(s) for developers, in the sense that it is not supported by a DBA, and need not implemented the same DBMS engine(s) as the consolidated database.  ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA NET] Path to MREN in Chicago (Logical Node)"
+    id="e0dd0839-d275-4939-b7a0-2935728c452e"
+    documentation="This is the cost of the channel on a fiber path to the MREN communtiy route at the Starlight POP in Chicago, and the costs of pathing the fiber to the ESNET routers. The cost include fair share of MREN dfrre which enable transiting traffic though the router.">
+  <properties
+      key="Unit:Throughput"/>
+</archimate:Node>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PDAC] Head Nodes and Misc (Logical Node)"
+    id="7c305766-e7a5-4e2d-b6d6-f4accc939b33"
+    documentation="This node represents a head node capablity for Batch scheduling, interactive Login, Kubernetes head nodes and simlar function. Provisioning is separately considered to provide resource isolation from other enclaves at the site.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

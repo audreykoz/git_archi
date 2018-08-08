@@ -1,4 +1,7 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base ITC] Security Analysis Cluster(Node)"
-    id="57189317-88c5-44b4-ac9c-a9536eba2046"/>
+    name="[Base ITC] Security Analysis Cluster (Logical Node)"
+    id="57189317-88c5-44b4-ac9c-a9536eba2046">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

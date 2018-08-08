@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Batch] Dedicated Batch Nodes DAC Upgrade (Logical Node)"
+    id="004c7c08-d134-4a95-b563-d055bd75eb51"
+    documentation="Batch worker nodes have minimal disk, jobs use site file systems, and production jobs use data backbone file systems directly.">
+  <properties
+      key="Unit:FLOPS"/>
+</archimate:Node>

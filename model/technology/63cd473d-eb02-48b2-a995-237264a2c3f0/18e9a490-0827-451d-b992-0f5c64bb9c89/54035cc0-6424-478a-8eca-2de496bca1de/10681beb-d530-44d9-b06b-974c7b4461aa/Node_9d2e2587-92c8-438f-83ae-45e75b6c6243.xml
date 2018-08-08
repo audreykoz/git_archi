@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base Misc DB] Provisoning (Logical Node)"
+    id="9d2e2587-92c8-438f-83ae-45e75b6c6243"
+    documentation="Provisioning for databases other than QSERV or hosted from the consolidated database.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

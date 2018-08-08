@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Kub] NCSA Kubernetes Worker Nodes LSSTCam Early Use Upgrade (Logical Node)"
+    id="ff08af85-257d-4a3d-be29-4c70fd907ead"
+    documentation="Kubernetes ITC provides for an Elastic capability for services. Unused Kubernetes capacity can be used by the condor based batch system. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

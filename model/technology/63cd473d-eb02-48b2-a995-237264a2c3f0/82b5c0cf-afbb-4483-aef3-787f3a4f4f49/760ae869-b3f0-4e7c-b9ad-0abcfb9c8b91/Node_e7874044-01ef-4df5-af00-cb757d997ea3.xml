@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[NCSA DAC] Base MyDB (Node)"
-    id="e7874044-01ef-4df5-af00-cb757d997ea3"/>
+    name="[NCSA DAC] MyDB Query Processing (Logical Node)"
+    id="e7874044-01ef-4df5-af00-cb757d997ea3"
+    documentation="The NCSA MyDB holds database state created by users of the DAC.  This node represents the query processing capability.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

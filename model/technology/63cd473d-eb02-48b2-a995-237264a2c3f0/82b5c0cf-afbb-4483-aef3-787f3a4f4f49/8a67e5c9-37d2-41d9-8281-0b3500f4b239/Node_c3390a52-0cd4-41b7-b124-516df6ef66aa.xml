@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base DAC] QSERV Prior Release (Logical Node)"
+    id="c3390a52-0cd4-41b7-b124-516df6ef66aa"
+    documentation="Each data release is held in a distinct QSERV instance.  Two Qserv instances are active at any given time.  QSERV instances may not be reusable due to changes in storage technology.">
+  <properties
+      key="Unit:CUSTOM"/>
+</archimate:Node>

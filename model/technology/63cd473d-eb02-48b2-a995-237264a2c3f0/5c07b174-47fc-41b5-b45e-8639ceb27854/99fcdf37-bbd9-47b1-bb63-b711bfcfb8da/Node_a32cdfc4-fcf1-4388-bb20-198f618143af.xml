@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PDAC] MyDB Query Processing (Logical Node)"
+    id="a32cdfc4-fcf1-4388-bb20-198f618143af"
+    documentation="The PDAC MyDB holds database state created by users of the DAC.  ">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

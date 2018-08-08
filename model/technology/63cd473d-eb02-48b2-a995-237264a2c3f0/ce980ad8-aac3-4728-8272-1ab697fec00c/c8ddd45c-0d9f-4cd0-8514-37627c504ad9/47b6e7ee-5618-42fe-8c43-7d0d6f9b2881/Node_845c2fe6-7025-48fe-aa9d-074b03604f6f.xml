@@ -1,8 +1,10 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[L1 Base] LSST Cam Observatory Operations Services Node  -- LSSTCAM Era Scale (Node)  (copy)"
+    name="[L1 Base] LSSTCam Observatory Operations Services Headnode -- LSSTCam Era Scale (Logical Node)"
     id="845c2fe6-7025-48fe-aa9d-074b03604f6f"
-    documentation="The LSSTCam observatory Operations Service node has sufficent disk to buffer data acquired by the LSSTCam.  The Buffer ingests data at the maximum data rate supported by the spectrograph archiver, while sustaining accessed needed by observing operations and ingest into the data backboe propoer.&#xA;&#xA;Data Achiving cannot proceed if the Observing Operations node is down, nor can the operations suported by buffer continue if the Observing Operations node is down. &#xA;&#xA;The buffer is capacious enough to allow for LSSTCam archiving to continue over the longest perod of planned outage of the data Backbone Raw data ingest point.The Buffer is also large enough to hold recently acquired data for use by observing operations. &#xA;&#xA;">
+    documentation="The LSSTCam observatory Operations Service node has sufficent disk to buffer data acquired by the LSSTCam. The Buffer ingests data at the maximum data rate supported by the spectrograph archiver, while sustaining accessed needed by observing operations and ingest into the data backboe propoer. &#xA;&#xA;Data Achiving cannot proceed if the Observing Operations node is down, nor can the operations supported by buffer continue if the Observing Operations node is down. &#xA;&#xA;The buffer is capacious enough to allow for LSSTCam archiving to continue over the longest perod of planned outage of the Data Backbone Raw data ingest point.The Buffer is also large enough to hold recently acquired data for use by observing operations. &#xA;&#xA;">
   <properties
       key="LDM-129"/>
+  <properties
+      key="Unit:Logical Cores"/>
 </archimate:Node>

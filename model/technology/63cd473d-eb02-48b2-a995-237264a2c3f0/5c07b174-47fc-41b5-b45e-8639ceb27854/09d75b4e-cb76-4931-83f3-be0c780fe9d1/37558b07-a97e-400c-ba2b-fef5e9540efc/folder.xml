@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.3.1.2 LSSTCam  Scale L1 Complete Test Stand"
-    id="37558b07-a97e-400c-ba2b-fef5e9540efc"/>
+    name="7.3.1.2 Phase II L1 Complete Test Stand"
+    id="37558b07-a97e-400c-ba2b-fef5e9540efc"
+    documentation="The LSSTCam Scale L1 extends the RAFT scale L1 Complete test stand by adding resources to support integration and test of LSSTCam Phase 1 and LSSTCam Phase 2 procesing at NCSA.  The resources support devleopment, integration and test. &#xA;&#xA;Resources are provided for a NCSA DMCS, L1 inout/putput cache, L1 Template cache, alert real time database and feeds to an event broker distiribution system system, and the distribution system itself.  The OCS gateway is provisoned form the general pool of servers. ">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NDI"/>
+</archimate:Folder>

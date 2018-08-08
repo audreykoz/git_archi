@@ -1,6 +1,6 @@
 <archimate:ApplicationService
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Qserv Developer Provisioning Service (Application Service)"
+    name="Qserv Developer Provisioning Service"
     id="844533e1-7959-11e7-8235-6c400893992c">
   <properties
       key="UseCaseSatisfactionServices"/>

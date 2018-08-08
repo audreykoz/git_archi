@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSSTCam Archiving Service"
+    id="844514b5-7959-11e7-bdce-6c400893992c">
+  <properties
+      key="UseCaseSatisfactionServices"/>
+</archimate:ApplicationService>

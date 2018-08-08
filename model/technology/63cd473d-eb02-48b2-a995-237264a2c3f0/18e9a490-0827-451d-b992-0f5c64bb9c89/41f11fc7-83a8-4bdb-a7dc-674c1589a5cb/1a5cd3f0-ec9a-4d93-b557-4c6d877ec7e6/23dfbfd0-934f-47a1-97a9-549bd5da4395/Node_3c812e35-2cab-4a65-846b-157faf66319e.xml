@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA Kubernetes Container Site File System"
-    id="3c812e35-2cab-4a65-846b-157faf66319e"/>
+    name="[NCSA Site FS] Kubernetes Container Site File System (Logical Node)"
+    id="3c812e35-2cab-4a65-846b-157faf66319e"
+    documentation="Holds Kubernetes containers for use primarily in Kubernetes">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

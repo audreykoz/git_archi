@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.1 Base Master Provisioning"
-    id="54035cc0-6424-478a-8eca-2de496bca1de"/>
+    id="54035cc0-6424-478a-8eca-2de496bca1de">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:BASE"/>
+  <properties
+      key="Enc:BMP"
+      value="Base Master Provisioning"/>
+</archimate:Folder>

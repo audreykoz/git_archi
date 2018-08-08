@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA CON DB] Consolidated Database SAN + Storage (Logical Node)"
+    id="72d3165d-92cb-4446-a6d0-d47fc36f2c51"
+    documentation="The baseline is a shared everything database, storage for this database models as a storage area network supporting block storage, where data potentially is available to any node.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

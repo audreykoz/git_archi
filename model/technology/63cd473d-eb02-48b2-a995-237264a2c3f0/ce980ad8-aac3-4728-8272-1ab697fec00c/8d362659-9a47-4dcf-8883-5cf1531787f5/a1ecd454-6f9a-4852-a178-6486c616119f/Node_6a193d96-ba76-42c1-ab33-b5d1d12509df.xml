@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Comcam Test Stand] Compute and storage ITC (Logical Node) "
+    id="6a193d96-ba76-42c1-ab33-b5d1d12509df"
+    documentation="The Spectrograph Test Stand is a node that supports the comcam Archiver, supporting control systems and a disk buffer that is not required to be a fully functional Observatory Operations server.  The buffer exposes recently acquired data from the spectrograph camera to users of the comcam  test stand.  teh node also proves an EFD EFT capability. &#xA; &#xA;This node is deployed in Tucson ">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

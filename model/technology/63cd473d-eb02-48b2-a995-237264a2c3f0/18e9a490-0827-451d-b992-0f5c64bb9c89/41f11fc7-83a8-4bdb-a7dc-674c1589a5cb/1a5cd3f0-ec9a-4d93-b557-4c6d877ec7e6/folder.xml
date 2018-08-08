@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.2.2.04 NCSA GPFS and ITC"
-    id="1a5cd3f0-ec9a-4d93-b557-4c6d877ec7e6"/>
+    name="7.2.2.04 NCSA GPFS and ITC for general availability"
+    id="1a5cd3f0-ec9a-4d93-b557-4c6d877ec7e6"
+    documentation="The logicsl items namds here are those with general availably needs. Special availablity is needed in the L1 systems, which are considered to be logical caches. ">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NMP"/>
+</archimate:Folder>

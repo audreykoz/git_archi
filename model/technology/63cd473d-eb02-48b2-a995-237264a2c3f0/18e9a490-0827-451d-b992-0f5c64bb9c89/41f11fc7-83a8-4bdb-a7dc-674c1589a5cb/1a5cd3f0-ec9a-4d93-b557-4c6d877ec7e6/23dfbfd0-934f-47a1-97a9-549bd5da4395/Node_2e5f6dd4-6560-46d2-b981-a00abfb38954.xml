@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Site FS] Developer Project File System (for LSSTCam Early Use  Logical Node) "
+    id="2e5f6dd4-6560-46d2-b981-a00abfb38954"
+    documentation="Holds project space for developers and general staff.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

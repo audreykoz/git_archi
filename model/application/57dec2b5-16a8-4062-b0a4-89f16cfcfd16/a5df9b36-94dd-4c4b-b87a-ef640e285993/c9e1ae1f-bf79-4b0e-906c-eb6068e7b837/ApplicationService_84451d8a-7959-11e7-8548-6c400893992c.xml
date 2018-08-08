@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSSTCam Prompt Processing Service for Alert Production"
+    id="84451d8a-7959-11e7-8548-6c400893992c">
+  <properties
+      key="UseCaseSatisfactionServices"/>
+</archimate:ApplicationService>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Comcam/LSSTcam Control System (Logical Node)"
+    id="7a7a3ec0-d99d-4c68-be31-25eaad1b4dba"
+    documentation="The Camera Control systems  provide emulation of the live systems for camera contgrol sufficient for accurate development, integration and test of the L1 system for the respective data systems.&#xA;&#xA;&#xA;">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

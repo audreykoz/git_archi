@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Data Backbone] Engineering File System (Node)"
-    id="bfb60d51-b7cd-4b78-8ac8-48f989857947"/>
+    name="[Data Backbone Phase 1] Engineering File System (Logical Node)"
+    id="bfb60d51-b7cd-4b78-8ac8-48f989857947"
+    documentation="This file system hold all engineering data, including EFD ETL file based data.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

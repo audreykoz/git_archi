@@ -2,6 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="[LDF-Managed-Data] A Set of Uniform Data Managemetn Requirements (Requirement)"
     id="a088d866-3848-401e-88e5-3091ebd1e1a2"
-    documentation="This element represents a set of requirements that apply to all LDF-Managed Data.">
-  <properties/>
-</archimate:Requirement>
+    documentation="This element represents a set of requirements that apply to all LDF-Managed Data."/>

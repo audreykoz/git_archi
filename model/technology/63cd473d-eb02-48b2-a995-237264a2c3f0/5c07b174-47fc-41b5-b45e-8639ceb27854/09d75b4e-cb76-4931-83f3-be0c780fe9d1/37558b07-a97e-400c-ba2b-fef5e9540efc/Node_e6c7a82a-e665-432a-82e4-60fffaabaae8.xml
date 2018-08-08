@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Real Time Alert Database Storage (Logical Node) "
+    id="e6c7a82a-e665-432a-82e4-60fffaabaae8"
+    documentation="The real time alert database is a DBMS of TBD technology that is used in alert processing, to record alerts and as a source of prior detections of objects. This represents the usable storage need ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

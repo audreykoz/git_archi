@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Kub] NCSA Kubernetes Worker Nodes DAC Upgrade (Logical Node)"
+    id="3bbf9a65-0338-42da-a0ad-f29360b4be1b"
+    documentation="Kubernetes ITC provides for an Elastic capability for services. Unused Kubernetes capacity can be used by the condor based batch system. &#xA;This upgrade provides for all DAC use at this site prior to end of the construction project.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

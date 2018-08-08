@@ -1,0 +1,9 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base ITC] Vsphere Storage (Logical Node)"
+    id="a1d98a15-9833-457e-bc53-c1398eb5fa09">
+  <properties
+      key="Unit:Logical Cores"/>
+  <properties
+      key="Enc:L1"/>
+</archimate:Node>

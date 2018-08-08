@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Batch] Dedicated Batch Nodes Final Capability Use Upgrade (Logical Node)"
+    id="ba655cc2-9470-49b8-82e5-874954c3a0d4"
+    documentation="Batch worker nodes have minimal disk, jobs use site file systems, and production jobs use data backbone file systems directly. This upgrade supports ">
+  <properties
+      key="Unit:FLOPS"/>
+</archimate:Node>

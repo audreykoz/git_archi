@@ -1,4 +1,5 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.2.3.1 NCSA Data Backbone File systems and ITC"
-    id="a2f5715c-f4e9-4e1e-b149-841db9f0773b"/>
+    id="a2f5715c-f4e9-4e1e-b149-841db9f0773b"
+    documentation="Data backbone file systems are part fo a larger concept callled the data baclkbone.&#xA;1) Hierarchy -- data exists in a tape-disk hierarchy,&#xA;2) Active assessement and management -- files are continuously verified for integrity.&#xA;2) File creation by stage in only.&#xA;4) Files respres in external meta data.&#xA;5) Replication between base and NCSA per policy.&#xA;"/>

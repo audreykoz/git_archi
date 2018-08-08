@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.3.1.1 Raft Scale L1 Complete Test Stand"
-    id="fb5042cd-ec4d-419c-9d95-008777fa5893"/>
+    name="7.3.1.1 Phase I L1 Complete Test Stand"
+    id="fb5042cd-ec4d-419c-9d95-008777fa5893"
+    documentation="The Phse L1 complete test stand is a set of LAB rersources that are used to support development, integrattion, and test of the Level 1 system. The Resources are sufficent to exercise the system at scale, and are augmented LSSTCMS an?AP sacele.  The resources provide for OCS, CDC, CDS, EFD, provides outside of DM and emulation of the WAN environment.  ">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:RM3003"/>
+  <properties
+      key="Enc:NDI"/>
+</archimate:Folder>

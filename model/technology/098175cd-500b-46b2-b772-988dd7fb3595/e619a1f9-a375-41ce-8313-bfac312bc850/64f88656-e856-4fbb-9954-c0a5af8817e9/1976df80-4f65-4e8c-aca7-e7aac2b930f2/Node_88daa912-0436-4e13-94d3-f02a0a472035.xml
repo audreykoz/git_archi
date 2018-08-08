@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA NET] NPCF Border (Logical Node)"
+    id="88daa912-0436-4e13-94d3-f02a0a472035"
+    documentation="The border infrastructure is primary a pari or redundant broder projects fund the a fari share of this infrastructure.">
+  <properties
+      key="Unit:Throughput"/>
+</archimate:Node>

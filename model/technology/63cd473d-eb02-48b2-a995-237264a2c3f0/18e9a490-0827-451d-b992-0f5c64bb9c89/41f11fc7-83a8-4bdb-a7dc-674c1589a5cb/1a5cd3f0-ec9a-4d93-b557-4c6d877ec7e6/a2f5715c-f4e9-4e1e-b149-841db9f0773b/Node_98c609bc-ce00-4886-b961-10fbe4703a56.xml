@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone Phase 3] NCSA Engineering File System Expansion for Final Capacity (Logical Node)"
+    id="98c609bc-ce00-4886-b961-10fbe4703a56"
+    documentation="This file system hold all engineering data, including EFD ETL file based data.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

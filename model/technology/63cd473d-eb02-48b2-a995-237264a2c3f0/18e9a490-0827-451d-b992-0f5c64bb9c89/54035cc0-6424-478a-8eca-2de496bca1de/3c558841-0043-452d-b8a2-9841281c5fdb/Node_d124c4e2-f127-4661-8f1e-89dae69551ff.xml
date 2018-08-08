@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base Batch] Base Dedicated Batch Nodes DAC Upgrade (Logical Node) "
+    id="d124c4e2-f127-4661-8f1e-89dae69551ff"
+    documentation="Batch worker nodes have minimal disk, jobs use site file systems, and production jobs use data backbone file systems directly.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

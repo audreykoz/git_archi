@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base DAC] DAC Scratch File System (Logical Node)"
+    id="09eb8013-71f2-4dbc-835d-9fbeb5041371"
+    documentation="Holds a scratch area for DAC users. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

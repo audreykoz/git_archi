@@ -1,4 +1,11 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.2.06 NSCA Miscellaneous DB ITC"
-    id="e47dbec7-e0f7-4efe-955b-be641969592f"/>
+    id="e47dbec7-e0f7-4efe-955b-be641969592f">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NMP"/>
+</archimate:Folder>

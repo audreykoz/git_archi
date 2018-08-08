@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base] Base ComCam OOS Site File Systems (Logical Node)"
+    id="cd2353fe-676b-49d2-b7d2-9e7fd8b18e90"
+    documentation="These file system(s) holds data that has been recently acquired from the Comcam. The file systems satisfy two needs.  A place to park data pending ingest to the data backboone, and a chance for recent and designted data for use by clients at the Base, incuding the Base science platform. The file system needs to be available whenever the archiving function is needed. The system needs to have sufficient performance to handle the maximum archiving rate of the camera it is supporting, the ingestion of data that are sent to the Data Backbone proper, plus a margin for exposing files to the commissioning cluster and other observatory systems. ">
+  <properties
+      key="Unit:Useable TB"/>
+  <properties
+      key="Enc:L1"/>
+</archimate:Node>

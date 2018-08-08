@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Misc DB] Provisioning Query Processing (Logical Node)"
+    id="70cc9359-f5ba-4eef-bb97-5b135d534e7e"
+    documentation="Hosting of nonrelational databases or other databases which cannot be consolidated">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

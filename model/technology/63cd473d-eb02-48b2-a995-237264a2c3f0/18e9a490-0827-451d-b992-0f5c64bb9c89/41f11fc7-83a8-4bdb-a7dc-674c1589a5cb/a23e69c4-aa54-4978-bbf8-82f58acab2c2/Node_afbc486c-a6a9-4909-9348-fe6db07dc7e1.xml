@@ -1,0 +1,10 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA CON DB] Consolidated DB Perimeter Bandwidth (Logical Node)"
+    id="afbc486c-a6a9-4909-9348-fe6db07dc7e1"
+    documentation="Shared everything databases have connectivity needs and may be supported by a special cluster network provisioning. ">
+  <properties
+      key="gbps"/>
+  <properties
+      key="Unit:gbps"/>
+</archimate:Node>

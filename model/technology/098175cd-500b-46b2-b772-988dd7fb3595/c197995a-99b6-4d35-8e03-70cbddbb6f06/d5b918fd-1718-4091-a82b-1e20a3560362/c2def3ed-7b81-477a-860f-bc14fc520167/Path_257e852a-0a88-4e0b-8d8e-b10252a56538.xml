@@ -1,0 +1,5 @@
+<archimate:Path
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NS Net] Data Backbone Transport (Path)"
+    id="257e852a-0a88-4e0b-8d8e-b10252a56538"
+    documentation="The Data Backbone Transport Path is a Channel in the North-South network which provides for data flows between NCSA and the Chilean Base site other than prompt processing flows.  Bandwidth for this channel is all and the availablity required for Propt Processing.  The path is Logical, and is implemented on underlying diverse network provisioning, and so can persist when network elements fail."/>

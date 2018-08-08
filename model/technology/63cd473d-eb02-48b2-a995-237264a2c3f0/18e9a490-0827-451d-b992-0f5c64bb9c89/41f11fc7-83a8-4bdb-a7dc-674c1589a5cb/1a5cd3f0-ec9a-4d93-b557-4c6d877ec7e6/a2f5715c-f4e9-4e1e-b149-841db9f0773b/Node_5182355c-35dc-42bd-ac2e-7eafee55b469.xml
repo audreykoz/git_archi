@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Data Backbone] NCSA Computed Data Products File System (Node)"
-    id="5182355c-35dc-42bd-ac2e-7eafee55b469"/>
+    name="[Data Backbone Phase 1] NCSA Computed Data Products File System (Logical Node)"
+    id="5182355c-35dc-42bd-ac2e-7eafee55b469"
+    documentation="The file system holds all outputs of the production system, excluding calibrations.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

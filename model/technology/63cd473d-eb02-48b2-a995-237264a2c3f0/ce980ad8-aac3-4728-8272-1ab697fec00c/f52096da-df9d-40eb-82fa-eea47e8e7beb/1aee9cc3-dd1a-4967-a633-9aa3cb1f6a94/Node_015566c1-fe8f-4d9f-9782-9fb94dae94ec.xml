@@ -1,5 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[L1 NCSA] NCSA Distributors ITC (Node)"
+    name="[L1 NCSA] NCSA Distributors ITC (Logical Node)"
     id="015566c1-fe8f-4d9f-9782-9fb94dae94ec"
-    documentation="During prompt processing, each forwarder node at the Base is paried with a distributor node at NCSA.  Nominally there is one such pair for every raft in LSSTCam while the system is performing Prompt PRocessing.  A working system has spare distribitr nodes, to allow for the failure a distributor Node. "/>
+    documentation="During prompt processing, each forwarder node at the Base is paried with a distributor node at NCSA.  Nominally there is one such pair for every raft in LSSTCam while the system is performing Prompt PRocessing.  A working system has spare distributor nodes, to allow for the failure a distributor Node. ">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

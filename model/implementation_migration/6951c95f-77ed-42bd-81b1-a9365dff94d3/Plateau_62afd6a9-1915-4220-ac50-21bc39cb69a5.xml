@@ -1,0 +1,8 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OO 1: Base Security Bundle (Plateau)"
+    id="62afd6a9-1915-4220-ac50-21bc39cb69a5"
+    documentation="The Base security bundle provides  infrormation security functions, including monitoring and intrusion detection for the Perimeiter of LSST networks, via border router taps.  The fundction includes vulnerablity scanning for both the summit and the base, logfile collection, and information securiity analysis.">
+  <properties
+      key="Pla:OO:BaseSecurityBundle"/>
+</archimate:Plateau>

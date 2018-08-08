@@ -1,4 +1,11 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.3 NCSA Development and Integration Enclave "
-    id="5c07b174-47fc-41b5-b45e-8639ceb27854"/>
+    id="5c07b174-47fc-41b5-b45e-8639ceb27854">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NDI"/>
+</archimate:Folder>

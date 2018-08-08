@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Event Distribution Provisioning (Logical Node)"
+    id="f8ad6be2-1ac3-4c66-a16b-6ff2b50b95e1"
+    documentation="This is provisioning to support a system which recieves a stream of alters, relized the LSST mini broker, and feeds alerts to third party brokers. &#xA;at the level of testing needed within th ePhase II level on complete test stand. Aee are daraenon Kubernentes resources, and subject to offline availabklity.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

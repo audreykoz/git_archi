@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA DAC User Login Computer(Node) "
-    id="c33a50e7-5d3a-4512-b30e-5cf817bc6430"/>
+    name="[NCSA DAC] Head Nodes and Misc (Logical Node) "
+    id="c33a50e7-5d3a-4512-b30e-5cf817bc6430"
+    documentation="This node represents a head node capablity for Batch scheduling, interactive Login, Kubernetes head nodes and simlar function. Provisioning is separately considered to provide resource isolation from other enclaves at the site.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

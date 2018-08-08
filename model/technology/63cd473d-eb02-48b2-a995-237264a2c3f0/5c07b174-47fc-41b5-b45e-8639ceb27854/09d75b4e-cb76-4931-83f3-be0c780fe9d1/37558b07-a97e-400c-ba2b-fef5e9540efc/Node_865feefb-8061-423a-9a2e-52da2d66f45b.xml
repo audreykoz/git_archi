@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Input Output Cache (Logical Node)"
+    id="865feefb-8061-423a-9a2e-52da2d66f45b"
+    documentation="This L1 input output chache holds intermediates and short term persistent data needed by the L1 system. This is a special file system doe to the need for rate isoplation for testing. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

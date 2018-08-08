@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Production] QSERV for Early Production Use (Logical Node)"
+    id="129221d5-466e-428a-a85a-b0b9522b3f5c"
+    documentation="This instance holds  the relational database catalogs for LSSTCam scale processing and catalogc future smaller scale processing.  The consolidated database provixed this capabity prior to this time "/>

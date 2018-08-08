@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Data Backbone] Base Raw File System (node)"
-    id="503e3df0-e7a5-42f7-8804-13a5fdd9aaac"/>
+    name="[Data Backbone] Base Raw File System (Logical Node)"
+    id="503e3df0-e7a5-42f7-8804-13a5fdd9aaac"
+    documentation="This file system hold all the raw data files from from the Spectrograph, Comcam and LSST Cam.   Designated Cross-talk corrected data may be saved here as well. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

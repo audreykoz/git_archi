@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base CON DB] Consolidated DB Perimeter Bandwidth (Logical Node)"
+    id="29bc858c-97b3-4bcc-a281-c99ed1e9450b"
+    documentation="Shared everything databases have connectivity needs and may be suported by a special cluster network provisioning. ">
+  <properties
+      key="Unit:gbps"/>
+</archimate:Node>

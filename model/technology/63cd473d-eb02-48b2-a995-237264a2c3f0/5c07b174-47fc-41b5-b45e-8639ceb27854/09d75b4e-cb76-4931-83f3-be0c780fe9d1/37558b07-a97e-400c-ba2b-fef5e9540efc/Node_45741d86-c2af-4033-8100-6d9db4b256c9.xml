@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Event and Facility Database (Logical Node)"
+    id="45741d86-c2af-4033-8100-6d9db4b256c9"
+    documentation="This is provisioning to support a system that is an adequae emulation of the event and falcity database, both relational part and large file annex. for the purpose of tests.&#xA;">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

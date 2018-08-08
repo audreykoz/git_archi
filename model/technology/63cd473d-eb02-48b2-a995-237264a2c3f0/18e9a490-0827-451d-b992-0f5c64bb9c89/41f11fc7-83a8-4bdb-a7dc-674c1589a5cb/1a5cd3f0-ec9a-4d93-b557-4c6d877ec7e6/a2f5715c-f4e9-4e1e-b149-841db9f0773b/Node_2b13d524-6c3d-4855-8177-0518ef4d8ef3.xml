@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone Phase 3] NCSA Computed Data Products File System Expansion for Final Capacity (Logical Node)"
+    id="2b13d524-6c3d-4855-8177-0518ef4d8ef3"
+    documentation="The file system holds all outputs of the production system, excluding calibrations.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

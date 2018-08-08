@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone] Released Files File System upgrade Final Construction Capacity (Logical Node)"
+    id="2228c7d0-9398-4ec2-8428-3819b7e1558e"
+    documentation="The file system holds all computed files in a release.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[PDAC] MyDB Perimeter Bandwidth (Logical Node)"
+    id="90731151-2311-4c62-929e-964c047695b3"
+    documentation="The PDAC MyDB holds database state created by users of the DAC.  ">
+  <properties
+      key="Unit:gbps"/>
+</archimate:Node>

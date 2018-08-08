@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LSSTCam Prompt Processing Service for Feedback of CBP Exposure Assessment to Observatory Operations"
+    id="84451cae-7959-11e7-8e31-6c400893992c">
+  <properties
+      key="UseCaseSatisfactionServices"/>
+</archimate:ApplicationService>

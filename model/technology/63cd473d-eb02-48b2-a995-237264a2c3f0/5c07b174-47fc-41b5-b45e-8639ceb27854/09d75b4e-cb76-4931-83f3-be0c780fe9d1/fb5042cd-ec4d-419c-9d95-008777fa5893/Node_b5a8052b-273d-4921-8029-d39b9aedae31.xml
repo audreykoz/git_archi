@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Camera Data System"
-    id="b5a8052b-273d-4921-8029-d39b9aedae31"/>
+    name="[L1 CTS] Spectrograph Camera Data System(s) (Logical Node)"
+    id="b5a8052b-273d-4921-8029-d39b9aedae31"
+    documentation="The Camera Data System(s) provide emulation of the live spectrograph  providing pixels to readou systems sufficient for accurate development, integration and test of the L1 system for the spectrograph&#xA;&#xA;">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

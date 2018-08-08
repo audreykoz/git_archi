@@ -1,7 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[NCSA Commons] Network Security Infrastructure"
-    id="1b56c42d-eb37-43a8-8d78-c70f1c329c80">
+    name="[NCSA Commons] Network Security Analysis Cycles Infrastructure (Logical Node) "
+    id="1b56c42d-eb37-43a8-8d78-c70f1c329c80"
+    documentation="the BOE is that projects pay a fair share of the operational and refesh costs the network security infrstrucutre.">
   <properties
-      key="LDM-129"/>
+      key="Unit:Logical Cores"/>
 </archimate:Node>

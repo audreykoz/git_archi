@@ -1,5 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[L1 Base] Spectrograph Forwarder Nodes (Node)"
+    name="[L1 Base] Spectrograph Forwarder Nodes (Logical Node)"
     id="6d44c167-0a0d-431d-bbc1-ce9df9c61347"
-    documentation="Forwarder nodes acquire the pixel data. The software design provides for forwarders to &quot;die&quot; -- as they are seleected from a pool (in thsi case for every image).  A Robust spectrogaph deployment might have two forwarders to provide  continuous service shodl a forwarder node fail.  For the spectrograph, forwarding nodes only perform the Archiving function."/>
+    documentation="Forwarder nodes acquire the pixel data. The software design provides for forwarders to &quot;die&quot; -- as they are seleected from a pool (in this case for every image).  A Robust spectrogaph deployment might have two forwarders to provide  continuous service shodl a forwarder node fail.  For the spectrograph, forwarding nodes only perform the Archiving function.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

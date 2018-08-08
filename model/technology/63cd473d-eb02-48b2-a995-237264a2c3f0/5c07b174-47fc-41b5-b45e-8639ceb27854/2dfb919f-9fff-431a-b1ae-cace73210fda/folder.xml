@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.3.3 QSERV Development"
-    id="2dfb919f-9fff-431a-b1ae-cace73210fda"/>
+    id="2dfb919f-9fff-431a-b1ae-cace73210fda"
+    documentation="These are discrete disk-full nodes to support individual QSERV developers.">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:RM3003"/>
+  <properties
+      key="Enc:NDI"/>
+</archimate:Folder>

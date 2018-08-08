@@ -1,0 +1,5 @@
+<archimate:Path
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NS Net] Science Data Transport (Path)"
+    id="a4f3d41e-7a6f-4a1d-abe4-26fd3370e21a"
+    documentation="The Science Data Transport Path is a Channel in the North-South network which provides the deterministic timing and the availablity required for Prompt Processing. The path is Logical, and is implemented on underlying diverse network provisioning, and so can persist when network elements fail.&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;&#xA;"/>

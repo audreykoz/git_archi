@@ -1,7 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Base DIsk-Based Disaster Recovery Store"
-    id="82b55fb4-bf3c-408d-b35d-f33b9523fc02">
+    name="[Base DR] Base Disk-Based Disaster Recovery File System Extension to Vsphere (Logical Node)"
+    id="82b55fb4-bf3c-408d-b35d-f33b9523fc02"
+    documentation="This logical node represents disaster recovery storage. It supports keeping copies of designated file system should file systems fail for the Spectrograph era.">
   <properties
-      key="LDM-129"/>
+      key="Unit:Useable TB"/>
 </archimate:Node>

@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.2.2.07 NCSA NPCF LSST Bespoken  VMWare "
-    id="edb66cff-2934-4925-95d7-9d8899398ffe"/>
+    name="7.2.2.07 NCSA NPCF LSST Bespoken VMWare "
+    id="edb66cff-2934-4925-95d7-9d8899398ffe"
+    documentation="Production quality virtualization supporting robust services for LSST.">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="loc:NPCF"/>
+  <properties
+      key="Enc:NMP"/>
+</archimate:Folder>

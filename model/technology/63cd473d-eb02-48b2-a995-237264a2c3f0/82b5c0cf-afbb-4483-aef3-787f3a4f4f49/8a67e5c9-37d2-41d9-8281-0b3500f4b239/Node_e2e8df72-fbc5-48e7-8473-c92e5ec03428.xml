@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base DAC] Base MyDB (Node)"
-    id="e2e8df72-fbc5-48e7-8473-c92e5ec03428"/>
+    name="[Base DAC] MyDB Query Processing (Logical Node)"
+    id="e2e8df72-fbc5-48e7-8473-c92e5ec03428"
+    documentation="The Base MyDB holds database state created by Users of the DAC. ">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

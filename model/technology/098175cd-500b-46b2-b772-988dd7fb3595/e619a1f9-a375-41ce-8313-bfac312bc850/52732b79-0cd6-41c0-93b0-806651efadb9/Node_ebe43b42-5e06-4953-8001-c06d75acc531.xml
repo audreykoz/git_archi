@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Openstack] Openstack Storage (Logical Node)"
+    id="ebe43b42-5e06-4953-8001-c06d75acc531"
+    documentation="sigh">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

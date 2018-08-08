@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA ADMIN LAB] Admin Development ITC (Logical Node)"
+    id="262a57eb-c5ba-453e-bbbf-b9aa9ef92bab"
+    documentation="This is lab equipment supporting the development of cross site administrative methods, which must be latency-tolerant.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA Dedicated Batch Nodes (Node)"
-    id="7aea41f8-070b-4216-9346-96835d94d30f"/>
+    name="[NCSA Batch] Dedicated Batch Nodes (Logical Node)"
+    id="7aea41f8-070b-4216-9346-96835d94d30f"
+    documentation="Batch worker nodes have minimal disk, jobs use site file systems, and production jobs use data backbone file systems directly.">
+  <properties
+      key="Unit:FLOPS"/>
+</archimate:Node>

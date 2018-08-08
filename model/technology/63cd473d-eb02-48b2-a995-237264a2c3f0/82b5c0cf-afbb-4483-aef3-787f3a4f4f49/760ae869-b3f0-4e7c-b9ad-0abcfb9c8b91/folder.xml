@@ -1,4 +1,10 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.5.2 US DAC"
-    id="760ae869-b3f0-4e7c-b9ad-0abcfb9c8b91"/>
+    id="760ae869-b3f0-4e7c-b9ad-0abcfb9c8b91"
+    documentation="The US DAC provides for  authorized community members to access LSST data, to ingest data of their own into the DAC's file-based and  DBMS Managed storage. The US DAC relies on resources for worker nodes (batch, virtual-data reconstruction, and kuberntes workers). The US DAC contains DBMS resources that can be written by DAC users. The US references data backbone file stores and data backbone DBMS in a read-only, resource-managed fashion. ">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:BASE"/>
+</archimate:Folder>

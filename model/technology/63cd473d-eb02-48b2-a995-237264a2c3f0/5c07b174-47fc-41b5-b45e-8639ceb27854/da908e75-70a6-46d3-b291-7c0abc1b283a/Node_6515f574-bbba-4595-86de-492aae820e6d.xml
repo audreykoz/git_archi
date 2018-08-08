@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LSST DEV headnode (Node)"
-    id="6515f574-bbba-4595-86de-492aae820e6d"/>
+    name="[LSST DEV] LSST DEV Head Nodes and Misc (Logical Node)"
+    id="6515f574-bbba-4595-86de-492aae820e6d"
+    documentation="This node represents a head node capablity for Batch scheduling, interactive Login, Kubernetes head nodes and simlar function. Provisioning is separately considered to provide resource isolation from other enclaves at the site.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone Phase 3] NCSA Data Management and Transfer Nodes Expansion for Final Capacity (Logical Node)"
+    id="29a30afe-157a-4efa-9e98-d4c432091dd0"
+    documentation="These nodes perform routine integrity assessment, and manage file system meta-data held in external databases.&#xA;&#xA;These nodes perform the stagein, stage-out and NCSA-Base replication transfers as well as disk-to-tape hierarchy transfers, and purge operations.&#xA;&#xA;There are sufficent nodes to serve devleopement and test purposes.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

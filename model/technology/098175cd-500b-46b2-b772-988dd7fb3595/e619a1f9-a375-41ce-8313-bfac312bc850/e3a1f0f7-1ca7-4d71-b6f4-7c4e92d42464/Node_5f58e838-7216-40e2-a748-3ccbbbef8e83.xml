@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Mass Store] HSM Core Servers (Logical Node)"
+    id="5f58e838-7216-40e2-a748-3ccbbbef8e83"
+    documentation="These are central services such as central Meta-data.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

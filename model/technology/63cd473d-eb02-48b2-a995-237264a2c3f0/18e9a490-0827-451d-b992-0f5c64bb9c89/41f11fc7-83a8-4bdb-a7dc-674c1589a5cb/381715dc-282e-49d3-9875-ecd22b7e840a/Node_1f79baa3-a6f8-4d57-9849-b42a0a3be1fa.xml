@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA DR] NCSA DR Head Infrastructure (Logical Node)"
+    id="1f79baa3-a6f8-4d57-9849-b42a0a3be1fa"
+    documentation="This logical node hosts the services used to load and fetch data from the DR stores.  At least ingest to a DR Store is based on stage-in semantics, since making  a R/W Filel system  Mount to a client does not provide protection avoid accidentially corrupting the store. &#xA;&#xA;Having a serving base ingest allows independent auditing that DR flows from KNow clients are functioning.  ">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

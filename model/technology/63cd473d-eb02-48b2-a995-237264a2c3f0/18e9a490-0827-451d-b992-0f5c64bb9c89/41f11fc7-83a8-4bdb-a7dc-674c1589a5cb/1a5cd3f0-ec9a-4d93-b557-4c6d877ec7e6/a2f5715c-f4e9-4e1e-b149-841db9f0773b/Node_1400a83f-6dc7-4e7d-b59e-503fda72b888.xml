@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone Phase 3] NCSA Calibrations File Sytem  Expansion for Final Capacity (Logical Node)"
+    id="1400a83f-6dc7-4e7d-b59e-503fda72b888"
+    documentation="This file system holds all calibration products, including all calibrations used in production processing. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

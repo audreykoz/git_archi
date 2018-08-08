@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base DR] Base Disk-Based Disaster Recovery File System High Capacity (Logical Node)"
+    id="83a316f2-1e15-44c8-a40d-b39bfda0f26f"
+    documentation="This logical node represents disaster recovery storage. It supports keeping copies of designated file system should file systems fail. The augments or replaces an Iniital DR store for the spectrograph bundle.&#xA;">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

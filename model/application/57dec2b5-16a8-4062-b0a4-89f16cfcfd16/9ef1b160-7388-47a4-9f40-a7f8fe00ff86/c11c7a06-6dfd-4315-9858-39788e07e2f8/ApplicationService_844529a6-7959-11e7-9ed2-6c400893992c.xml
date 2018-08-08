@@ -1,0 +1,7 @@
+<archimate:ApplicationService
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[LSSTCam Processing] DRP Offline Campaign Processing (Application Service)"
+    id="844529a6-7959-11e7-9ed2-6c400893992c">
+  <properties
+      key="UseCaseSatisfactionServices"/>
+</archimate:ApplicationService>

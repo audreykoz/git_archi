@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Mass Store] Tape Drives (Logical Node)"
+    id="97dc9d27-b3fd-4cbd-a472-11a6b5faefcc"
+    documentation="The BOE is that the Center supplies a minimal number of tape drives. Projects suppliment this with additional drive to obtain the data movement resources needed beyond that. ">
+  <properties
+      key="Unit:Tape Drives"/>
+</archimate:Node>

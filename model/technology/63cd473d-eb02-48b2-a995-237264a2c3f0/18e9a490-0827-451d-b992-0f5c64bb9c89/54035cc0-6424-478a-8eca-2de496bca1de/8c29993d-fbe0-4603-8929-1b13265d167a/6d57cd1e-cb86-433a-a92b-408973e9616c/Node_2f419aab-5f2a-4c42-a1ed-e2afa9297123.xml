@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Base Data Management Nodes (Node)"
-    id="2f419aab-5f2a-4c42-a1ed-e2afa9297123"/>
+    name="[Data Backbone] Base Data Management and Transfer Nodes (Logical Node)"
+    id="2f419aab-5f2a-4c42-a1ed-e2afa9297123"
+    documentation="These nodes perform routine integrity assessment, and manage file system meta-data held in external databases. These nodes perform the stagein, stage-out and NCSA-Base replication transfers as well as disk-to-tape hierarchy transfers and purge operations. There are sufficent nodes to serve devleopement and test purposes.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

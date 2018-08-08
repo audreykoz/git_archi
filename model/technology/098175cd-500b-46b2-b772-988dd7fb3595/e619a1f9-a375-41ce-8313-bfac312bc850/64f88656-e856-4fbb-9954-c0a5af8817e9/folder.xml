@@ -1,4 +1,11 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="NCSA Networking"
-    id="64f88656-e856-4fbb-9954-c0a5af8817e9"/>
+    id="64f88656-e856-4fbb-9954-c0a5af8817e9">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Enc:NCSA_COMMONS"/>
+  <properties
+      key="LDM-129"/>
+</archimate:Folder>

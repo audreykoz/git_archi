@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] WAN Emulator (Logical Node)"
+    id="5064ccd7-9c17-47e5-8d6e-ec84da1c27bb"
+    documentation="The WAN emulator is a programmable device to simulate the latency and JItter of the Data Channel  used for prompt processing.">
+  <properties
+      key="Unit:gbps"/>
+</archimate:Node>

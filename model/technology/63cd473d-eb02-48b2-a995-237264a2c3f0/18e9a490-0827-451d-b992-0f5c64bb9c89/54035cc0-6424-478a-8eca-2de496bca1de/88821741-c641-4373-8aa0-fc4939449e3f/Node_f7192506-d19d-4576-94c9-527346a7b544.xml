@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base DR] Base DR Head Infrastructure (Logical Node)"
+    id="f7192506-d19d-4576-94c9-527346a7b544"
+    documentation="This logical node hosts the services used to load and fetch data from the DR stores. At least ingest to a DR Store is based on stage-in semantics, since making a R/W file system mount to a client does not provide protection against accidentally corrupting the store. &#xA;&#xA;Having a serving base ingest allows independent auditing that DR flows from known clients are functioning.  ">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

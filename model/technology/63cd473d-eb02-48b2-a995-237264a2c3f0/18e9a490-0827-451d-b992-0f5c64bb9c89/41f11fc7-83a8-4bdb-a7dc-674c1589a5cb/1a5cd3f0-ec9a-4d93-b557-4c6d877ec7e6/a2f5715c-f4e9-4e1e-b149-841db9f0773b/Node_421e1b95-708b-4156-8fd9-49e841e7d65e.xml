@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone Phase 1] NCSA Data Backbone Test and Integration File System (Logical Node)"
+    id="421e1b95-708b-4156-8fd9-49e841e7d65e"
+    documentation="A file system for test and development of the Data Backbone.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base DAC] QSERV (Node)"
-    id="1aba68e2-e628-440d-9f19-6cc2cabf6af5"/>
+    name="[Base DAC] QSERV New Relase (Logical Node)"
+    id="1aba68e2-e628-440d-9f19-6cc2cabf6af5"
+    documentation="Each data release is held in a distinct QSERV instance.  Two Qserv instances are active at any given time.  QSERV instances may not be reusable due to changes in storage technology.">
+  <properties
+      key="Unit:CUSTOM"/>
+</archimate:Node>

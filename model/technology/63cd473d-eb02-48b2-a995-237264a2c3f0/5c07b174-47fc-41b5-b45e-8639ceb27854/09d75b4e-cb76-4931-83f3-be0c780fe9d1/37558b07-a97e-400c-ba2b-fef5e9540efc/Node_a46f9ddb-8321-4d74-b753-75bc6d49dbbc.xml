@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Template Cache (Logical Node)"
+    id="a46f9ddb-8321-4d74-b753-75bc6d49dbbc"
+    documentation="The template chase are reference images used ib image differencing. This is a special file system due to the need for rate isoplation for testing. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

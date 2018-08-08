@@ -1,4 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Base Site FS] Base Backup File System (Node)"
-    id="ef469ccf-b7ea-4527-a11b-afdc67c78f3f"/>
+    name="[Base Site FS] Base Backup File System (Logical Node)"
+    id="ef469ccf-b7ea-4527-a11b-afdc67c78f3f"
+    documentation="Holds backups. Recall that for many file systems GPFS SNAPS constiture backups. However, there are other backup cases, for example a place to keep database logs external to a database environment. This file system provide capability for backups-other-than-by snapshots.&#xA;This proves for capacity at the Base for the  construction project and deliverty to the operations project, exluding capacity needed for the Chilean DAC. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

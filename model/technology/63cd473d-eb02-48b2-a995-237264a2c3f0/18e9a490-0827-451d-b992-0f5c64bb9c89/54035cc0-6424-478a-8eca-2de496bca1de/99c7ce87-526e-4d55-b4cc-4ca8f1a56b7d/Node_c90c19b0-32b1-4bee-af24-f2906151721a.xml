@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base CON DB] Consolidated Database Compute DAC Upgrade (Logical Node)"
+    id="c90c19b0-32b1-4bee-af24-f2906151721a"
+    documentation="Database compute nodes process users queries, often in a distributed fashion.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

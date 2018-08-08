@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Camera Control System (Logical Node)"
+    id="87cf619a-91db-4a22-82a8-1976d12d7d1f"
+    documentation="The Camera Control System provide emulation of the live systems for camera contgrol sufficient for accurate development, integration and test of the L1 system for the spectrograph, data systems.&#xA;&#xA;&#xA;">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Misc DB] Provisioning (Logical Node)"
+    id="fcd0ce70-32ed-43bc-8ee2-232fa1479691"
+    documentation="Hostng of Non relational data bases or other databases which cannot be consolidated">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

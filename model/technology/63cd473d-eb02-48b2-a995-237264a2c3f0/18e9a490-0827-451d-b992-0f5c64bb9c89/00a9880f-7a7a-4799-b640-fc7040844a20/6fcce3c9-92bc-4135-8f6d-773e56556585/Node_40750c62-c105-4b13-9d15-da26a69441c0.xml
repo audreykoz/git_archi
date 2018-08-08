@@ -1,7 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[Summit ITC] Vsphere (Node)"
-    id="40750c62-c105-4b13-9d15-da26a69441c0">
+    name="[Summit ITC] Information Security Capability (Logical Node)"
+    id="40750c62-c105-4b13-9d15-da26a69441c0"
+    documentation="Summit services are typically implemented in a VMware infrastructure that is capable for autonomous, disconnected operation. The services supported are only those needed for supporting operations while the Summit is disconnected from the base.">
   <properties
-      key="LDM-129"/>
+      key="Unit:Logical Cores"/>
 </archimate:Node>

@@ -1,7 +1,10 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NPCF VMwae (Node) "
-    id="2650aad4-ed86-4124-9593-8815ee971e26">
+    name="NPCF VMware (Logical Node) "
+    id="2650aad4-ed86-4124-9593-8815ee971e26"
+    documentation="NPCF lacks a virtualization commons based on VMware. Therefore LSST needs to provide an infrastructure for its use. VMware is used for provisioning for administration. Other logical nodes specified in this logical architecture can also have their provisioning assigned to NPCF VMWare.">
   <properties
       key="LDM-129"/>
+  <properties
+      key="Unit:Logical Cores"/>
 </archimate:Node>

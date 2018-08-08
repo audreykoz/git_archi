@@ -1,7 +1,10 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="NCSA Consolidated Database (Node) "
-    id="62e45e2f-008e-4a2a-85a5-2eecef6add6f">
+    name="[NCSA CON DB] Consolidated Database Compute (Logical Node) "
+    id="62e45e2f-008e-4a2a-85a5-2eecef6add6f"
+    documentation="Database compute nodes processes users queries, often in a distributed fashion.">
   <properties
       key="LDM-129"/>
+  <properties
+      key="Unit:Logical Cores"/>
 </archimate:Node>

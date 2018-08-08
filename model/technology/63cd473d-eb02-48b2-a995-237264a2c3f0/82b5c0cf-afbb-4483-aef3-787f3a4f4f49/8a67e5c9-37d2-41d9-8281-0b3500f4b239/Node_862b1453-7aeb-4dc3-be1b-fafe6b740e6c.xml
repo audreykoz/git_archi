@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base DAC] MyDB Storage (Logical Node)"
+    id="862b1453-7aeb-4dc3-be1b-fafe6b740e6c"
+    documentation="The Base MyDB holds database state created by Users of the DAC. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

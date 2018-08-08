@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone Phase 2] NCSA Computed Data Products File System  Expansion for LSSTCam early ops (Logical Node)"
+    id="70fc048e-769f-4136-b4ea-2e5f87321c02"
+    documentation="The file system holds all outputs of the production system, excluding calibrations.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

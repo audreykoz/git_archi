@@ -1,4 +1,12 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="7.5.1.3 LSSTCam Era Phase 2 ITC"
-    id="e54b0c14-34a1-44e8-ab53-b5f91e092e30"/>
+    name="7.7.1.3 LSSTCam Era Phase 2 ITC"
+    id="e54b0c14-34a1-44e8-ab53-b5f91e092e30"
+    documentation="NO additional ITC at base other than Phase 1 ITC.">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:BASE"/>
+  <properties
+      key="Enc:L1"/>
+</archimate:Folder>

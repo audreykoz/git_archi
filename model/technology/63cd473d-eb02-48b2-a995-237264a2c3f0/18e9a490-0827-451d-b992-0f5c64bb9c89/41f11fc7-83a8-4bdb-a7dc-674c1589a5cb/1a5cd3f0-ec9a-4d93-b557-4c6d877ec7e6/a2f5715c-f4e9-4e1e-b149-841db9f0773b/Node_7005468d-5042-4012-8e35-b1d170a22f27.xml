@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Data Backbone Phase 2] NCSA Calibrations File Sytem  Expansion for LSSTCam early ops (Logical Node)"
+    id="7005468d-5042-4012-8e35-b1d170a22f27"
+    documentation="This file system holds all calibration products, including all calibrations used in production processing. ">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

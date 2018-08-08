@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base] Telemetry Gateway Compute Capability (Logical Node)"
+    id="1894f661-70a0-4d88-b3f5-4a2f812ce981"
+    documentation="This amount of compute needed to pass information to the OCS system from the L1 and offline enclaves.  No data is stored by this capability. "/>

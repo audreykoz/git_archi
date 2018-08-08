@@ -1,0 +1,5 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 Base] ETL Compute Capability (Logical Node)"
+    id="3fd772fd-0f7d-4ab7-a779-f86764238746"
+    documentation="This amount of compute needed for an OCS commandable deveince to read out teh teh EFD at teh basea nd to transform the data and insert the data into the NCSA Consolidates Database and to Transfer files from the EFD Large File annex into the data backbone file system. ANy store is epheral,  data flow though the compute element, data are not stored here."/>

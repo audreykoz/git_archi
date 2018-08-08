@@ -1,5 +1,8 @@
 <archimate:Node
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="[L1 Base]  Spectrograph DMCS  and  Misc  Provisioning (node)"
+    name="[L1 Base] Spectrograph DMCS and Misc Provisioning (Logical Node)"
     id="df237a1a-e8dd-4406-bd1a-7de430d963e5"
-    documentation="This logical Node  provides provisioning Provisioning for the Base DMCS and associated processes that constitute  the &quot;Head Node&quot; applicaitions,  The system will fail if  this provisioning infrastructure fails as all applications are critical to operations.  Hardware designers might consider redundant provisioning for this logical system element.  &#xA;&#xA;This node also provides provisioning for the OCS Bridge and support for the OCS drven Batch, and EFD ETL."/>
+    documentation="This logical Node provides provisioning for the Base DMCS and associated processes that constitute  the &quot;Head Node&quot; applicationd, The system will fail if this provisioning infrastructure fails as all applications are critical to operations.  Hardware designers might consider redundant provisioning for this logical system element.  &#xA;&#xA;This node also provides provisioning for the OCS Bridge and support for the OCS drven Batch and EFD ETL.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

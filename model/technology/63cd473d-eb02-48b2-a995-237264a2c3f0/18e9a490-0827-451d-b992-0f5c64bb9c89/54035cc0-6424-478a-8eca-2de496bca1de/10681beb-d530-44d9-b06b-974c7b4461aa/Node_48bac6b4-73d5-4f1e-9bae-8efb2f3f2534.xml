@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base Misc DB] Provisoning Query Processing (Logical Node)"
+    id="48bac6b4-73d5-4f1e-9bae-8efb2f3f2534"
+    documentation="Provisioning for databases other than QSERV or hosted from the consolidated database.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

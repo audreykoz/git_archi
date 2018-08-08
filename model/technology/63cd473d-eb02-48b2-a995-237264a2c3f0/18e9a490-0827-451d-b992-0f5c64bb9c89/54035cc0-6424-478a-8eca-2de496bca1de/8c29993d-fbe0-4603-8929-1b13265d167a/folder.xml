@@ -1,4 +1,13 @@
 <archimate:Folder
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="7.2.1.04 Base GPFS and ITC"
-    id="8c29993d-fbe0-4603-8929-1b13265d167a"/>
+    id="8c29993d-fbe0-4603-8929-1b13265d167a">
+  <properties
+      key="LDM-129"/>
+  <properties
+      key="Loc:BASE"/>
+  <properties
+      key="Enc:BMP"/>
+  <properties
+      key="Pla:OOBaseSciencePlatform"/>
+</archimate:Folder>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[Base Misc DB] Provisoning Perimeter Bandwidth (Logical Node)"
+    id="f186a099-a503-4c59-83a6-1c68d5381720"
+    documentation="Provisioning for databases other than QSERV or hosted from the consolidated database.">
+  <properties
+      key="Unit:gbps"/>
+</archimate:Node>

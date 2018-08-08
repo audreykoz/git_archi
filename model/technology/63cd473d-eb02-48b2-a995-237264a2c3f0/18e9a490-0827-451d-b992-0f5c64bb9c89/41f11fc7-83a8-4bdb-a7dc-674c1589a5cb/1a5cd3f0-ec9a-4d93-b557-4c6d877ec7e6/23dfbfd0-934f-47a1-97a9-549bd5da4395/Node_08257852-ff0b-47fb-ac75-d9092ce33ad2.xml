@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Site FS] Developer Home FIle System for LSSTCam Early Use (Logical Node) "
+    id="08257852-ff0b-47fb-ac75-d9092ce33ad2"
+    documentation="Holds login areas for developers and general staff">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

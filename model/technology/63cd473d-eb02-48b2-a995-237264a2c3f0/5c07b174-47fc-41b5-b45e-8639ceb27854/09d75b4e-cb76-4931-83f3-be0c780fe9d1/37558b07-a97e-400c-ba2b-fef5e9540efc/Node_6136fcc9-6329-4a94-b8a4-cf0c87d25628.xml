@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[L1 CTS] Bulk Processing for prompt processing (Logical Node)"
+    id="6136fcc9-6329-4a94-b8a4-cf0c87d25628"
+    documentation="This is provisioning to support bulk processing for prompt processing. The nodes are typically of a uniform type to help provide understandable timing of prompt codes. Enough nodes are provided to support two &quot;strings&quot; of processing. Idle nodes are donated first to the L1 production system and then to the bulk batch pool, and reclaimed as needed.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>

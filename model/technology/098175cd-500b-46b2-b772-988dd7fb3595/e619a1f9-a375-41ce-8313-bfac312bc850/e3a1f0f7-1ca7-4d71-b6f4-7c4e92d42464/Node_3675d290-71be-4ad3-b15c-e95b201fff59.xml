@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Mass Store] Tape Disk Cache (Logical Node)"
+    id="3675d290-71be-4ad3-b15c-e95b201fff59"
+    documentation="This represents the disk cache standing in front of the tape store. THE BOW is that a cache sufficient for 10 tapes is supplied by the Center. Projects with a greater need suppliment the cache.">
+  <properties
+      key="Unit:Useable TB"/>
+</archimate:Node>

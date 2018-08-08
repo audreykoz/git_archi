@@ -1,0 +1,5 @@
+<archimate:Plateau
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="CI 4: Spectrograph Era Processing (Plateau)"
+    id="be51b1bf-227f-471f-b684-af41fcf5ccac"
+    documentation="Produciotn procssing of deployed spectrograph data in the context of the processing service."/>

@@ -1,0 +1,8 @@
+<archimate:Node
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="[NCSA Openstack] Openstack Headnode Infrastructure (Logical Node) "
+    id="880e3a12-4c74-481d-b5b5-1e2dfbda79bf"
+    documentation="NCS nebula.">
+  <properties
+      key="Unit:Logical Cores"/>
+</archimate:Node>
